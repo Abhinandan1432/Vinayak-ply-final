@@ -100,7 +100,7 @@
 <!-- product slider section ends -->
 
 <!-- usp section starts  -->
-<section class="usp my-margin">
+<section class="usp my-margin sm-center">
     <div class="container">
         <h3 class="heading_three text-white text-center pt-5"> Our USP</h3>
         <div class="row pt-5">

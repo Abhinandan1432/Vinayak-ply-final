@@ -2,7 +2,6 @@
 Website Name:- VINAYAK PLY
 Frontend Developer:- Abhinandan kumar
 Backend Developer:- Ashwin Kumar
-Start Date:- 08-10-2022 
 */
 
 /* Our global css starts from here  */
@@ -590,7 +589,7 @@ footer li:hover {
     }
 
     .sm-height {
-        height: 100vh;
+        height:68vh;
     }
 
     .heading_one {

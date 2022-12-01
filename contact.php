@@ -26,7 +26,7 @@
             </div>
             <div class="col-md-3 col-12"></div>
         </div>
-        <div class="row mt-5">
+        <div class="row mt-5 sm-center">
             <div class="col-md-4 col-12">
                 <h3 class="heading_three text-uppercase">Get in Touch!</h3>
                 <h4 class="heading_four text-uppercase">Toll - Free:<a href="tel:18003091918"> 18003091918</a></h4>

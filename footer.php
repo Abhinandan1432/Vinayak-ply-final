@@ -118,8 +118,10 @@
 <!-- hero js -->
 
 <!-- swiper slider js link -->
-<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.5/swiper-bundle.min.js"></script>
 <!-- swiper slider js link -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" defer="" async=""></script>
 
 <!-- global js link -->
 <script src="./global.js"></script>

@@ -195,6 +195,20 @@ a:hover {
 
 /* --------------- Owl Carousal Start --------------- */
 
+/* Nav style  */
+#red-line{
+    color: var(--red);
+    height: 3px;
+    background-color: var(--red);
+    width: 50px;
+}
+
+.mega-menu
+
+
+/* Nav style end */
+
+
 .owl-slider {
     width: 100%;
     overflow-x: hidden;

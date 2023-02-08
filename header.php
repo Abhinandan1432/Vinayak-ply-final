@@ -73,30 +73,32 @@
                             <!-- <a class="nav-link" href="#">Products</a> -->
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
                                 data-bs-auto-close="outside">Products</a>
-                            <div class="dropdown-menu shadow w-100">
+                            <div class="dropdown-menu py-5 shadow w-100">
                                 <div class="mega-content px-4">
                                     <div class="container">
                                         <div class="row">
                                             <div class="col-12 col-sm-4 col-md-3">
                                                 <h5 class="heading_five text-dark">Plywood</h5>
+                                                <div id="red-line"></div>
+                                                
                                                 <div class="list-group">
-                                                    <a class="list-group-item" href="#">Waterproof</a>
-                                                    <a class="list-group-item" href="#">Water Resistant</a>
-                                                    <a class="list-group-item" href="#">Made to Order</a>
-                                                    <a class="list-group-item" href="#">Linus Pro IS 303 MR Plywood</a>
+                                                    <a class="list-group-item px-0" href="#">Waterproof</a>
+                                                    <a class="list-group-item px-0" href="#">Water Resistant</a>
+                                                    <a class="list-group-item px-0" href="#">Made to Order</a>
+                                                    <a class="list-group-item px-0" href="#">Linus Pro IS 303 MR Plywood</a>
                                                 </div>
                                             </div>
                                             <div class="col-12 col-sm-4 col-md-3">
                                                 <h5 class="heading_five text-dark">Doors</h5>
+                                                <div id="red-line"></div>
                                                 <div class="list-group">
-                                                    <a class="list-group-item" href="#">Flash Doors</a>
-                                                    <a class="list-group-item" href="#">Block Doors</a>
-                                                    <a class="list-group-item" href="#">Mauryan Doors</a>
-                                                    <a class="list-group-item" href="#">Block Board</a>
+                                                    <a class="list-group-item px-0" href="#">Flash Doors</a>
+                                                    <a class="list-group-item px-0" href="#">Block Doors</a>
+                                                    <a class="list-group-item px-0" href="#">Mauryan Doors</a>
+                                                    <a class="list-group-item px-0" href="#">Block Board</a>
                                                 </div>
                                             </div>
                                             <div class="col-12 col-sm-4 col-md-6">
-                                                <h5></h5>
                                                 <div class="pt-4">
                                                     <img src="./assets/images/mega_menu.png" class="img-fluid"
                                                         alt="mega_menu">

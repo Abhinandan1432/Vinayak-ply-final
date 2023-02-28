@@ -1,6 +1,88 @@
 <?php require_once('header.php') ?>
 
+<!-- Owl Carousal for destop -->
+<div class="owl-slider sm-height sm-center d-md-block" id="owl-slider" style="overflow: hidden;">
+  <!-- slide 01 -->
+  <div class="slide ">
+    <div class="owl-slide slider_one sm-height">
+      <div class="container owl-text">
+        <div class="row">
+          <div class="col-md-8 col-sm-12">
+            <h1 class="heading_one"><strong style="color: black;">Smart Bano,</strong> <br>
+              <strong style="color:#A6CE39;">Scan Kro</strong>
+            </h1>
+            <p class="paragraph " style="color: black;">
+              <strong>Vinayakply Android app helps you to check the authenticity of any product. The application brings
+                a new level
+                of transparency in the business by empowering customers to verify the authenticity of products. You can
+                install it on any android device and share your experience with us.</strong>
+            </p>
+            <div class="">
+              <a href="#"><button class="red-button sm-center">Download Now</button></a>
+              <a href="#"><button class="white-button sm-center">Download Now</button></a>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-12"> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- slide 02 -->
+  <div class="slide">
+    <div class="owl-slide slider_two sm-height">
+      <div class="container owl-text">
+        <div class="row">
+          <div class="col-md-8 col-sm-12">
+            <h1 class="heading_one"><strong style="color: white;">Design Your Dream
+                Home with Our Plywood
+            </h1>
+            <p class="paragraph " style="color: white;">
+              <strong>Vinayakply Android app helps you to check the authenticity of any product. The application brings
+                a new level
+                of transparency in the business by empowering customers to verify the authenticity of products. You can
+                install it on any android device and share your experience with us.</strong>
+            </p>
+            <div class="">
+              <a href="#"><button class="red-button sm-center">Download Now</button></a>
+              <a href="#"><button class="white-button sm-center">Download Now</button></a>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-12">
 
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- slide 03 -->
+  <div class="slide ">
+    <div class="owl-slide slider_three sm-height">
+      <div class="container owl-text">
+        <div class="row">
+          <div class="col-md-8 col-sm-12">
+            <h1 class="heading_one"><strong style="color: black;">Smart Bano,</strong> <br>
+              <strong style="color:#A6CE39;">Scan Kro</strong>
+            </h1>
+            <p class="paragraph " style="color: black;">
+              <strong>Vinayakply Android app helps you to check the authenticity of any product. The application brings
+                a new level
+                of transparency in the business by empowering customers to verify the authenticity of products. You can
+                install it on any android device and share your experience with us.</strong>
+            </p>
+            <div class="">
+              <a href="#"><button class="red-button sm-center">Download Now</button></a>
+              <a href="#"><button class="white-button sm-center">Download Now</button></a>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-12">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Owl Carousal -->
 
 
 <!-- hero section ends here -->

@@ -209,6 +209,11 @@ a:hover {
 /* Nav style end */
 
 
+/* hero section */
+
+/* hero section */
+
+
 .owl-slider {
     width: 100%;
     overflow-x: hidden;
@@ -255,7 +260,6 @@ a:hover {
     height: 68vh;
     display: flex;
     flex-direction: column;
-    /* align-items: flex-start; */
     justify-content: center;
 }
 
@@ -292,7 +296,7 @@ a:hover {
     outline: 0;
 }
 
-.owl-carousel .owl-nav button.owl-next,
+/* .owl-carousel .owl-nav button.owl-next,
 .owl-carousel .owl-nav button.owl-prev,
 .owl-carousel button.owl-dot {
     display: none;
@@ -301,7 +305,7 @@ a:hover {
     border: none;
     padding: 0 !important;
     font: inherit;
-}
+} */
 
 /* --------------- Owl Carousal End --------------- */
 
@@ -591,6 +595,12 @@ footer li:hover {
 
 /* --------------- Footer End --------------- */
 
+.paginations .next{
+    display: none;
+}
+.paginations .prev{
+    display: none;
+}
 
 /* media querry starts here */
 @media screen and (max-width: 900px) {
@@ -618,3 +628,13 @@ footer li:hover {
 
 
 /* media queryy ends here */
+
+/* blog */
+.blog-image{
+    background-image: url('./assets/background/blog_img.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 25vh;
+}
+/* blog */

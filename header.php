@@ -126,8 +126,7 @@
                         </li>
                     </ul>
                     <form class="d-flex d-none d-md-block">
-                        <a href="tel:18003091918" class="red-button text-decoration-none"><i class="fa-sharp fa-solid fa-phone"></i> +91
-                            18003091918</a>
+                        <a href="tel:18003091918" class="red-button text-decoration-none"><i class="fa-sharp fa-solid fa-phone"></i> Toll free Number</a>
                     </form>
                 </div>
             </div>

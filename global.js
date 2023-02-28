@@ -1,4 +1,18 @@
+// hero section
+
+
+// hero section
+
+
 // Owl Carousal
+$('#pagination-demo').twbsPagination({
+  totalPages: 35,
+  visiblePages: 4,
+  onPageClick: function (event, page) {
+    $('#page-content').text('Page ' + page);
+  }
+});
+
 $("#owl-slider").owlCarousel({
   animateOut: 'fadeOut',
   items:1,

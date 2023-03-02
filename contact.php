@@ -18,7 +18,7 @@
             <div class="col-md-6 col-12">
                 <div class="">
                     <h2 class="heading_two text-uppercase text-dark text-center">Contact details</h2>
-                    <h5 class="heading_five text-dark text-center ">
+                    <h5 class="heading_five text-dark text-center">
                         Write to us or give us a call now, Vinayak ply is always happy to provide a free consultation
                         and help out with any questions you may ask.
                     </h5>
@@ -29,26 +29,24 @@
         <div class="row mt-5 sm-center">
             <div class="col-md-4 col-12">
                 <h3 class="heading_three text-uppercase">Get in Touch!</h3>
-                <h4 class="heading_four text-uppercase">Toll - Free:<a href="tel:18003091918"> 18003091918</a></h4>
+                <h4 class="heading_four text-uppercase">Toll - Free : <a href="tel:18003091918" class="fw-bold"> 18003091918</a></h4>
                 <address>
                     232, Peerumadara, Ring Road<br>
                     Papdi, Ramnagar 244715<br>
-                    <a href="tel:9528023016">9528023016</a>
+                    <a href="tel:9528023016" class="text-dark fw-bold">9528023016</a>
                 </address>
                 <address>
-                    Head Office<br>
-                    Tenet Complex, Kashipur Road<br>
+                    <strong class="text-uppercase">Head Office :-</strong><br>
+                    Tenet Complex , Kashipur Road<br>
                     Rudrapur 263153<br>
                     Uttarakhand <br>
-                    <a href="tel:09627200009">09627200009</a><br>
-                    <a href="mailto:customerhelpdesk@vinayakply.com">customerhelpdesk@vinayakply.com</a>
+                    <a href="tel:09627200009" class="text-dark fw-bold">09627200009</a><br>
+                    <a href="mailto:customerhelpdesk@vinayakply.com" class="text-dark fw-bold">customerhelpdesk@vinayakply.com</a>
                 </address>
             </div>
             <div class="col-md-8 col-12">
-                <iframe class="w-100"
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28085.77485529587!2d77.316096!3d28.3672576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1669119605786!5m2!1sen!2sin"
-                     height="330" style="border:0;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="w-100 border"  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28085.77485529587!2d77.316096!3d28.3672576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1669119605786!5m2!1sen!2sin"
+                     height="330" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
@@ -61,7 +59,7 @@
         <div class="row">
             <div class="col-12">
                 <h3 class="heading_three text-uppercase text-center">Do you have any question ?</h3>
-          <p class="paragraph text-center">We are at your disposal 7 days a week!</p>
+          <p class="paragraph text-center text-dark text-capitalize ">We are at your disposal 7 days a week!</p>
           <form>
             <div class="row">
               <div class="col">
@@ -78,7 +76,7 @@
               </div>
             </div>
            <div class="mt-3 text-center">
-            <a href="#"><button class="red-button sm-center">Send message</button></a>
+            <a href="#"><button class="red-button sm-center">Send Message</button></a>
            </div>
           </form>
             </div>

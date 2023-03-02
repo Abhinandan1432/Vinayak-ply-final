@@ -98,6 +98,8 @@
 </footer>
 <!-- footer ends  -->
 
+
+
 <!-- bootstrap 5.0.2 js link -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
@@ -105,18 +107,21 @@
 <!-- bootstrap 5.0.2 js link -->
 
 <!-- hero js  -->
-<script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js">
-</script>
+<script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js"></script>
 <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
 </script>
 <!-- hero js -->
+
+<!-- paginations -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js"></script>
+<!-- paginations -->
 
 <!-- swiper slider js link -->
-<!-- <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script> -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" defer async></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.5/swiper-bundle.min.js"></script>
 <!-- swiper slider js link -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" defer="" async=""></script>
+
 
 <!-- global js link -->
 <script src="./global.js"></script>

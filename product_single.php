@@ -105,51 +105,51 @@
         <h3 class="heading_three text-white text-center pt-5"> Our USP</h3>
         <div class="row pt-5">
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/one.png" class="img-fluid" alt="one">
                     <h6 class="heading_six pt-2">100 % Composite Core</h6>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/two.png" class="img-fluid" alt="two">
                     <h6 class="heading_six pt-2">Calibbrated Technology</h6>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/three.png" class="img-fluid" alt="three">
                     <h6 class="heading_six pt-2">21 Years Warranty</h6>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/four.png" class="img-fluid" alt="four">
                     <h6 class="heading_six pt-2">Termite & Borker Proof</h6>
                 </div>
             </div>
         </div>
-        <div class="row pt-5 pb-5">
+        <div class="row pb-3">
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/five.png" class="img-fluid" alt="five">
                     <h6 class="heading_six pt-2">Anti Viral + Anti Bacterial</h6>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/six.png" class="img-fluid" alt="six">
                     <h6 class="heading_six pt-2">Boiling Water Proof</h6>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/seven.png" class="img-fluid" alt="seven">
                     <h6 class="heading_six pt-2">Extremely Uniform with Minimal Thickness</h6>
                 </div>
             </div>
             <div class="col-md-3 col-6">
-                <div>
+                <div class="mb-5">
                     <img src="./assets/icons/eight.png" class="img-fluid" alt="eight">
                     <h6 class="heading_six pt-2">Teralogy Pressing automationi process</h6>
                 </div>
@@ -167,7 +167,7 @@
                 <div class="row bg">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Density</h6>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Density</h6>
                             <p class="">0.60gm/cm<sup>3</sup></p>
                         </div>
                     </div>
@@ -181,7 +181,7 @@
                 <div class="row bg mt-3">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Thickness tolerance</h6>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Thickness Tolerance</h6>
                             <p class="">Up to 4mm ± 10%
                                 Above 4mm ± 5%</p>
                         </div>
@@ -196,7 +196,7 @@
                 <div class="row bg mt-3">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Moisture Content</h6>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Moisture Content</h6>
                             <p class="">8 to 11%</p>
                         </div>
                     </div>
@@ -210,7 +210,7 @@
                 <div class="row bg mt-3">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Water Absorption</h6>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Water Absorption</h6>
                             <p class="">Below 1%</p>
                         </div>
                     </div>
@@ -237,8 +237,8 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Glue Shear Strength Dry</h6>
-                            <p class="">>1350N</p>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Glue Shear Strength Dry</h6>
+                            <p class="">> 1350N</p>
                         </div>
                     </div>
                 </div>
@@ -250,8 +250,8 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Glue Shear strength (Wet)</h6>
-                            <p class="">>1000N</p>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Glue Shear Strength (Wet)</h6>
+                            <p class="">> 1000N</p>
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Tensiole Strength</h6>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Tensiole Strength</h6>
                             <p class="">Above 450kg/cm2
                             </p>
                         </div>
@@ -278,7 +278,7 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six" style="color: #894A82;">Adhesion of Plies</h6>
+                            <h6 class="heading_six fw-bold" style="color: #894A82;">Adhesion of Plies</h6>
                             <p class="">Excellent</p>
                         </div>
                     </div>

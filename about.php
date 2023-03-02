@@ -61,17 +61,16 @@
 <section class="value my-margin">
     <div class="container pb-5">
         <div class="">
-            <h3 class="heading_three text-white text-center pt-3">OUR VALUES</h3>
-            
+            <h3 class="heading_three text-white text-center pt-3">OUR VALUES</h3>  
         </div>
         <div class="row pt-5">
             <div class="col-md-4 col-12 pt-3">
-                <div class="bg-light p-3">
-                    <span>
-                        <h4 class="heading_four text-dark"><img src="./assets/images/right_arrow.png" class="img-fluid"
-                                alt="right_arrow"> &nbsp;&nbsp;Product Inegrity</h4>
+                <div class="bg-light p-3 h-100 value-card">
+                    <span class="right-arrow">
+                        <h4 class="heading_four text-dark text-uppercase"><img src="./assets/images/right_arrow.png" class="img-fluid"
+                                alt="right_arrow"><span class="mx-3">Product Inegrity</span></h4>
                     </span>
-                    <p class="paragraph">
+                    <p class="paragraph text-dark">
                         Vinayak Ply team selects the best logs that are free from any natural defects & high in quality.
                         Our raw material is treated to withstand moisture, extreme weather conditions, and insect
                         infestation. All of our products of Vinayak ply are manufactured with strict adherence to the
@@ -81,28 +80,26 @@
                 </div>
             </div>
             <div class="col-md-4 col-12 pt-3">
-                <div class="bg-light p-3">
-                    <span>
-                        <h4 class="heading_four text-dark"><img src="./assets/images/right_arrow.png" class="img-fluid"
-                                alt="right_arrow"> &nbsp;&nbsp;Adaptability</h4>
+                <div class="bg-light p-3 h-100">
+                    <span class="right-arrow">
+                        <h4 class="heading_four text-dark text-uppercase"><img src="./assets/images/right_arrow.png" class="img-fluid"
+                                alt="right_arrow"><span class="mx-3">Adaptability</span></h4>
                     </span>
-                    <p class="paragraph">
+                    <p class="paragraph text-dark">
                         We place significant emphasis on adapting to our customers’ preferences and changing demands.
                         Vinayak ply products are manufactured in a range of thicknesses under a diverse set of
                         sub-brands, each catering to a specific quality and price requirement. We constantly refer to
                         customer and channel partner feedback.
-
-
                     </p>
                 </div>
             </div>
             <div class="col-md-4 col-12 pt-3">
-                <div class="bg-light p-3">
-                    <span>
-                        <h4 class="heading_four text-dark"><img src="./assets/images/right_arrow.png" class="img-fluid"
-                                alt="right_arrow"> &nbsp;&nbsp;Product Inegrity</h4>
+                <div class="bg-light p-3 h-100">
+                    <span class="right-arrow">
+                        <h4 class="heading_four text-dark text-uppercase"><img src="./assets/images/right_arrow.png" class="img-fluid"
+                                alt="right_arrow"><span class="mx-3">Product Inegrity</span></h4>
                     </span>
-                    <p class="paragraph">
+                    <p class="paragraph text-dark">
                         Vinayak Ply team selects the best logs that are free from any natural defects & high in quality.
                         Our raw material is treated to withstand moisture, extreme weather conditions, and insect
                         infestation. All of our products of Vinayak ply are manufactured with strict adherence to the

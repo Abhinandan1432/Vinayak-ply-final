@@ -90,6 +90,11 @@ Backend Developer:- Ashwin Kumar
 /* buttons css ends here */
 
 /* typography css starts from here */
+p{
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+}
 .heading_one {
     font-family: 'Jost';
     font-style: normal;
@@ -202,9 +207,9 @@ a:hover {
     background-color: var(--red);
     width: 50px;
 }
+/* input fields  */
 
-.mega-menu
-
+/* input fields  */
 
 /* Nav style end */
 
@@ -289,6 +294,7 @@ a:hover {
     cursor: pointer;
     border-color: transparent;
     background-color: #C9C9C9;
+    display: none;
 }
 
 .owl-dots .owl-dot.active {
@@ -461,7 +467,18 @@ q {
     background-size: cover;
     height: auto;
 }
+.value .right-arrow img{
+    vertical-align: inherit;
+}
+.value .value-card:hover:after{
 
+}
+li.paragraph{
+    transition: 0.4s;
+}
+li.paragraph:hover{
+    color: var(--black);
+}
 /* about page css ends */
 
 /*  product_single page css starts*/
@@ -497,8 +514,6 @@ q {
     text-align: center;
     font-size: 18px;
     background: #fff;
-
-    /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
@@ -630,11 +645,84 @@ footer li:hover {
 /* media queryy ends here */
 
 /* blog */
+.our-blog .blog-image{
+    position: relative;
+}
+.our-blog .blog-image .btn-group{
+    position: absolute;
+    left: 5%;
+    bottom: 5%;
+}
 .blog-image{
     background-image: url('./assets/background/blog_img.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     height: 25vh;
 }
+.blog-single .blog-single-image{
+    background-image: url('./assets/background/blog_img.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    position: relative;
+}
+.blog-single .blog-single-image .btn-group{
+    position: absolute;
+    left: 2%;
+    bottom: 5%;
+}
 /* blog */
+
+
+.modal-body h1 {
+    font-weight: 900;
+    font-size: 2.3em;
+    text-transform: uppercase;
+  }
+  .modal-body a.pre-order-btn {
+    color: #000;
+    background-color: gold;
+    border-radius: 1em;
+    padding: 1em;
+    display: block;
+    margin: 2em auto;
+    width: 50%;
+    font-size: 1.25em;
+    font-weight: 6600;
+  }
+  .modal-body a.pre-order-btn:hover {
+    background-color: #000;
+    text-decoration: none;
+    color: gold;
+  }
+
+
+  /*  */
+ .nav-item a:before{
+    content: '';
+    width: 100%;
+    position: absolute;
+    border-bottom: 3px solid red;
+    bottom: 0;
+    right: 550px;
+    transition: 0.7s all;
+  }
+  .nav-item a:hover:before{
+    right: 0;
+  }
+  .nav-item a:hover{
+    color: #A6CE39 !important;
+  }
+ .nav-item a{
+    text-decoration: none;
+    position: relative;
+    font-weight: 700;
+    font-family: sans-serif;
+    display: block;
+    overflow: hidden;
+    transition: 0.7s ease all;
+  }
+  
+  /*  */

@@ -123,3 +123,7 @@ var swiper2 = new Swiper(".mySwiper2", {
   },
 });
 // swiper slider ends
+
+$(document).ready(function(){       
+  $('#myModal').modal('show');
+   }); 

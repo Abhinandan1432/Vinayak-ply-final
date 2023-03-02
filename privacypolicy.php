@@ -319,17 +319,17 @@
                         If you have any questions about this Privacy Policy, You can contact us:
                     </p>
                     <ul>
-                        <li>
-                            By email: <a href="mailto:customerhelpdesk@vinayakply.com">customerhelpdesk@vinayakply.com  </a>
+                        <li class="text-dark fw-bold text-capitalize">
+                            By email : <a href="mailto:customerhelpdesk@vinayakply.com">customerhelpdesk@vinayakply.com  </a>
                         </li>
-                        <li>
-                            By visiting this page on our website: <a href="https://www.vinayakply.com/contact">https://www.vinayakply.com/contact</a>
+                        <li class="text-dark fw-bold text-capitalize">
+                            By visiting this page on our website : <a href="https://www.vinayakply.com/contact">https://www.vinayakply.com/contact</a>
                         </li>
-                        <li>
-                            By phone number: <a href="tel:9627200009">9627200009</a> , <a href="tel:18003091918">18003091918</a>
+                        <li class="text-dark fw-bold text-capitalize">
+                            By phone number : <a href="tel:9627200009">9627200009</a> , <a href="tel:18003091918">18003091918</a>
                         </li>
-                        <li>
-                            By mail: Parvatiya Vikas Udyog Shala, 232, Peerumadara, Ring Road Papdi, Ramnagar - 244715
+                        <li class="text-dark fw-bold text-capitalize">
+                            By mail : Parvatiya Vikas Udyog Shala, 232, Peerumadara, Ring Road Papdi, Ramnagar - 244715
                         </li>
                     </ul>
                 </div>

@@ -18,6 +18,9 @@
         integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- font awsome css link  -->
+     <!-- swipper slider css link -->
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
+     <!-- swipper slider css link -->
 
     <!-- owl carousel css link -->
     <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css"
@@ -36,13 +39,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <!-- animate.style css link -->
 
-    <!-- swipper slider css link -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
-    <!-- swipper slider css link -->
-
     <!-- our global css link -->
     <link rel="stylesheet" href="./style.css">
     <!-- our global css  -->
+    
 </head>
 
 <body>

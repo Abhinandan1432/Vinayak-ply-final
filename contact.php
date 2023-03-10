@@ -27,7 +27,7 @@
             <div class="col-md-3 col-12"></div>
         </div>
         <div class="row mt-5 sm-center">
-            <div class="col-md-4 col-12">
+            <div class="col-md-3 col-12">
                 <h3 class="heading_three text-uppercase">Get in Touch!</h3>
                 <h4 class="heading_four text-uppercase">Toll - Free : <a href="tel:18003091918" class="fw-bold"> 18003091918</a></h4>
                 <address>
@@ -44,8 +44,8 @@
                     <a href="mailto:customerhelpdesk@vinayakply.com" class="text-dark fw-bold">customerhelpdesk@vinayakply.com</a>
                 </address>
             </div>
-            <div class="col-md-8 col-12">
-                <iframe class="w-100 border"  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28085.77485529587!2d77.316096!3d28.3672576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1669119605786!5m2!1sen!2sin"
+            <div class="col-md-9 col-12">
+                <iframe class="w-100 border rounded"  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28085.77485529587!2d77.316096!3d28.3672576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1669119605786!5m2!1sen!2sin"
                      height="330" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>

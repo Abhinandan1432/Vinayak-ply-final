@@ -39,8 +39,8 @@
                     </ul>
                 </div>
                 <div class=" mt-3">
-                    <a href="#"><button class="red-button sm-center">Reset</button></a>
-                    <a href="#"><button class="red-button sm-center">Search</button></a>
+                    <a href="#"><button class="red-button sm-center fw-bold">Reset</button></a>
+                    <a href="#"><button class="red-button sm-center fw-bold">Search</button></a>
                 </div>
             </div>
         </div>
@@ -54,8 +54,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-12 mb-4">
-                <div class="card border-0 shadow" style="border-radius: 2rem;">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
+                <div class="card border-0 shadow rounded">
+                    <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="card-body">
                         <h5 class="card-title fs-4 fw-bold">Saraswati Plywood (P) Ltd.</h5>
@@ -81,8 +81,8 @@
                 </div>
             </div>
             <div class="col-md-4 col-12 mb-4">
-                <div class="card border-0 shadow" style="border-radius: 2rem;">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
+                <div class="card border-0 shadow rounded">
+                    <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="card-body">
                         <h5 class="card-title fs-4 fw-bold">Saraswati Plywood (P) Ltd.</h5>
@@ -108,8 +108,8 @@
                 </div>
             </div>
             <div class="col-md-4 col-12 mb-4">
-                <div class="card border-0 shadow" style="border-radius: 2rem;">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
+                <div class="card border-0 shadow rounded">
+                    <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="card-body">
                         <h5 class="card-title fs-4 fw-bold">Saraswati Plywood (P) Ltd.</h5>
@@ -135,8 +135,8 @@
                 </div>
             </div>
             <div class="col-md-4 col-12 mb-4">
-                <div class="card border-0 shadow" style="border-radius: 2rem;">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
+                <div class="card border-0 shadow rounded">
+                    <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="card-body">
                         <h5 class="card-title fs-4 fw-bold">Saraswati Plywood (P) Ltd.</h5>
@@ -162,8 +162,8 @@
                 </div>
             </div>
             <div class="col-md-4 col-12 mb-4">
-                <div class="card border-0 shadow" style="border-radius: 2rem;">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
+                <div class="card border-0 shadow rounded">
+                    <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="card-body">
                         <h5 class="card-title fs-4 fw-bold">Saraswati Plywood (P) Ltd.</h5>
@@ -189,8 +189,8 @@
                 </div>
             </div>
             <div class="col-md-4 col-12 mb-4">
-                <div class="card border-0 shadow" style="border-radius: 2rem;">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
+                <div class="card border-0 shadow rounded">
+                    <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d32816876.203179765!2d-14.918325493171634!3d35.66838012713092!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498851db8b8df%3A0x2c5a51aeda23fc59!2sLive%20%26%20Dream!5e0!3m2!1sen!2sin!4v1677584961857!5m2!1sen!2sin"
                         style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="card-body">
                         <h5 class="card-title fs-4 fw-bold">Saraswati Plywood (P) Ltd.</h5>

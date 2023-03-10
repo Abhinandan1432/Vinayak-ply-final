@@ -73,7 +73,7 @@ Backend Developer:- Ashwin Kumar
 
 }
 
-.t-button {
+.default-btn {
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -442,6 +442,9 @@ q {
 .about_one {
     position: relative;
 }
+.about_one img {
+    border: 8px solid #A6CE39;
+}
 
 .about_two {
     position: relative;
@@ -450,6 +453,10 @@ q {
     justify-content: end;
     top: -13rem;
     right: 4rem;
+    
+}
+.about_two img{
+    border: 8px solid #ED1C24;
 }
 
 .about_three {
@@ -458,6 +465,9 @@ q {
     display: flex;
     justify-content: center;
     top: -19rem;
+}
+.about_three img{
+    border: 6px solid #ECECEC;
 }
 
 .value {
@@ -478,6 +488,10 @@ li.paragraph{
 }
 li.paragraph:hover{
     color: var(--black);
+}
+.journey .journey-card{
+    border-top:4px solid green ;
+    border-radius: 20px;
 }
 /* about page css ends */
 
@@ -573,6 +587,9 @@ li.paragraph:hover{
     width: 100%;
     height: 100%;
     object-fit: cover;
+  }
+  .technical_specification .heading_six{
+    color: #894A82;
   }
 /* swiper slider css ends */
 /* product_single page css ends */

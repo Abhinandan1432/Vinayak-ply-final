@@ -15,10 +15,10 @@
     <div class="container">
         <div class="row mb-5">
             <div class="col-md-4 col-12">
-                <div class="blog-image">
+                <div class="blog-image rounded">
                     <div class="btn-group">
-                        <button class="white-button border-0 text-dark">Viyanaykply</button>
-                        <button class="white-button border-0 text-dark mx-2">Calibrated Plywood</button>
+                        <button class="white-button border-0 text-dark fw-bold">Vinayakply</button>
+                        <button class="white-button border-0 text-dark mx-2 fw-bold">Calibrated Plywood</button>
                     </div>
                 </div>
             </div>
@@ -33,16 +33,16 @@
                         authenticity of products. You can install it on any android device and share your experience
                         with us.
                     </p>
-                    <a href="./blog_single.php"><button class="red-button">Read more</button></a>
+                    <a href="./blog_single.php"><button class="red-button fw-bold">Read more</button></a>
                 </div>
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-md-4 col-12">
-                <div class="blog-image">
+                <div class="blog-image rounded">
                     <div class="btn-group">
-                        <button class="white-button border-0 text-dark">Viyanaykply</button>
-                        <button class="white-button border-0 text-dark mx-2">Calibrated Plywood</button>
+                        <button class="white-button border-0 text-dark fw-bold">Vinayakply</button>
+                        <button class="white-button border-0 text-dark mx-2 fw-bold">Calibrated Plywood</button>
                     </div>
                 </div>
             </div>
@@ -57,16 +57,16 @@
                         authenticity of products. You can install it on any android device and share your experience
                         with us.
                     </p>
-                    <a href="./blog_single.php"><button class="red-button">Read more</button></a>
+                    <a href="./blog_single.php"><button class="red-button fw-bold">Read more</button></a>
                 </div>
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-md-4 col-12">
-                <div class="blog-image">
+                <div class="blog-image rounded">
                     <div class="btn-group">
-                        <button class="white-button border-0 text-dark">Viyanaykply</button>
-                        <button class="white-button border-0 text-dark mx-2">Calibrated Plywood</button>
+                        <button class="white-button border-0 text-dark fw-bold">Vinayakply</button>
+                        <button class="white-button border-0 text-dark mx-2 fw-bold">Calibrated Plywood</button>
                     </div>
                 </div>
             </div>
@@ -81,16 +81,16 @@
                         authenticity of products. You can install it on any android device and share your experience
                         with us.
                     </p>
-                    <a href="./blog_single.php"><button class="red-button">Read more</button></a>
+                    <a href="./blog_single.php"><button class="red-button fw-bold">Read more</button></a>
                 </div>
             </div>
         </div>
         <div class="row mb-5">
             <div class="col-md-4 col-12">
-                <div class="blog-image">
+                <div class="blog-image rounded">
                     <div class="btn-group">
-                        <button class="white-button border-0 text-dark">Viyanaykply</button>
-                        <button class="white-button border-0 text-dark mx-2">Calibrated Plywood</button>
+                        <button class="white-button border-0 text-dark fw-bold">Vinayakply</button>
+                        <button class="white-button border-0 text-dark mx-2 fw-bold">Calibrated Plywood</button>
                     </div>
                 </div>
             </div>
@@ -105,15 +105,13 @@
                         authenticity of products. You can install it on any android device and share your experience
                         with us.
                     </p>
-                    <a href="./blog_single.php"><button class="red-button">Read more</button></a>
+                    <a href="./blog_single.php"><button class="red-button fw-bold">Read more</button></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- blog section -->
-
-
 
 <section class="paginations">
     <div class="container">

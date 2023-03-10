@@ -403,7 +403,7 @@
     <h3 class="heading_three">Our journey</h3>
     <div class="row">
       <div class="col-md-3 col-12" style="bottom: -13rem; position:relative;">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
+        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
           <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
               <h4 class="heading_four">2004</h4>
             </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
@@ -413,7 +413,7 @@
         </div>
       </div>
       <div class="col-md-3 col-12" style="bottom: -10rem; position:relative;">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
+        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
           <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
               <h4 class="heading_four">2008</h4>
             </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
@@ -424,7 +424,7 @@
         </div>
       </div>
       <div class="col-md-3 col-12" style="bottom: -7rem; position:relative;">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
+        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
           <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
               <h4 class="heading_four">2019</h4>
             </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
@@ -435,7 +435,7 @@
         </div>
       </div>
       <div class="col-md-3 col-12" style="bottom: -4rem; position:relative;">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
+        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
           <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
               <h4 class="heading_four">2021</h4>
             </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>

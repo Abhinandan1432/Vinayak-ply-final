@@ -17,8 +17,8 @@
         <div class="row">
             <div class="col-12">
                 <div class="">
-                    <p class="paragraph">
-                        Last updated: September 07, 2022
+                    <p class="paragraph fw-bold text-success">
+                        Last Updated : March 09, 2023
                     </p>
                     <p class="paragraph">
                         This Privacy Policy describes Our policies and procedures on the collection, use and disclosure
@@ -37,7 +37,7 @@
                         appear in the singular or in the plural.
                     </p>
                     <h4 class="heading_four text-uppercase">Definitions</h4>
-                    <h5 class="heading_five text-dark">For this Privacy Policy:</h5>
+                    <h5 class="heading_five fw-bold text-danger">For this Privacy Policy:</h5>
                     <ul>
                         <li>Account means a unique account created for You to access our Service or parts of our
                             Service.</li>
@@ -87,7 +87,7 @@
                     <h3 class="heading_three text-uppercase">Collecting and Using Your Personal Data</h3>
                     <h4 class="heading_four text-uppercase">Types of Data Collected</h4>
                     <h5 class="heading_five text-uppercase text-danger">1. Personal Data</h5>
-                    <p class="paragraph">
+                    <p class="paragraph fw-bold text-success">
                         While using Our Service, We may ask You to provide Us with certain personally identifiable
                         information that can be used to contact or identify You. Personally, identifiable information
                         may include, but is not limited to:
@@ -100,7 +100,7 @@
                         <li>Usage Data</li>
                     </ul>
                     <h5 class="heading_five text-uppercase text-danger">2. Usage Data</h5>
-                    <p class="paragraph">
+                    <p class="paragraph fw-bold text-success">
                         Usage Data has collected automatically when using the Service.
                     </p>
                     <p class="paragraph">
@@ -121,7 +121,7 @@
                     </p>
                     <h5 class="heading_five text-uppercase text-danger">3. Information Collected while Using the
                         Application</h5>
-                    <p class="paragraph">
+                    <p class="paragraph  fw-bold text-success">
                         While using Our Application, to provide features of Our Application, We may collect, with Your
                         prior permission:
                     </p>
@@ -138,7 +138,7 @@
                         </li>
                     </ul>
                     <h3 class="heading_three text-uppercase">Use of Your Personal Data</h3>
-                    <p class="paragraph">
+                    <p class="paragraph  fw-bold text-success">
                         The Company may use Personal Data for the following purposes:
                     </p>
                     <ul>
@@ -255,7 +255,7 @@
                         agency).
                     </p>
                     <h4 class="heading_four text-uppercase">Other legal requirements</h4>
-                    <p class="paragraph">
+                    <p class="paragraph  fw-bold text-danger">
                         The Company may disclose Your Data in the good faith belief that such action is necessary to:
                     </p>
                     <ul>
@@ -315,7 +315,7 @@
                         Privacy Policy are effective when they are posted on this page.
                     </p>
                     <h4 class="heading_four text-uppercase">Contact Us</h4>
-                    <p class="paragraph">
+                    <p class="paragraph fw-bold text-danger">
                         If you have any questions about this Privacy Policy, You can contact us:
                     </p>
                     <ul>

@@ -3,9 +3,7 @@
 <!-- breadcrumb section starts -->
 <section class="about_breadcrumb">
     <div class="container-fluid">
-        <div class="row">
-
-        </div>
+        <div class="row"></div>
     </div>
 </section>
 <!-- breadcrumb section ends -->
@@ -15,10 +13,10 @@
     <div class="container">
         <div class="row mb-3">
             <div class="col-12">
-                <div class="blog-single-image">
+                <div class="blog-single-image rounded">
                     <div class="btn-group">
-                        <button class="white-button border-0 text-dark">Viyanaykply</button>
-                        <button class="white-button border-0 text-dark mx-2">Calibrated Plywood</button>
+                        <button class="white-button border-0 text-dark fw-bold">Vinayakply</button>
+                        <button class="white-button border-0 text-dark mx-2 fw-bold">Calibrated Plywood</button>
                     </div>
                 </div>
             </div>
@@ -44,17 +42,21 @@
                     other tools.
                 </p>
                 <div>
-                    <h6>Calibrated Plywood's Main Applications:</h6>
+                    <h6 class="fw-bold">Calibrated Plywood's Main Applications:</h6>
                     <ul>
-                        <li>Calibrated Plywood is well-known plywood that is used to make modular furniture and modular kitchens.</li>
-                        <li>Its ultra-smooth surface makes it excellent for furniture post-lamination and post-forming.</li>
-                        <li>Calibrated Plywood is known for its consistent thickness, thus there is no unevenness or  warping, unlike other plywood.</li>
-                        <li>They have a high tolerance, making them ideal for usage in high-functioning areas such as kitchens.</li>
+                        <li>Calibrated Plywood is well-known plywood that is used to make modular furniture and modular
+                            kitchens.</li>
+                        <li>Its ultra-smooth surface makes it excellent for furniture post-lamination and post-forming.
+                        </li>
+                        <li>Calibrated Plywood is known for its consistent thickness, thus there is no unevenness or
+                            warping, unlike other plywood.</li>
+                        <li>They have a high tolerance, making them ideal for usage in high-functioning areas such as
+                            kitchens.</li>
                         <li>Wooden floors, shutters, couches, and tables are all excellent choices.</li>
                     </ul>
                 </div>
                 <div>
-                    <h6>Calibrated Plywood's Benefits</h6>
+                    <h6 class="fw-bold">Calibrated Plywood's Benefits</h6>
                     <ul>
                         <li>Unparalleled quality</li>
                         <li>Outstanding engineering</li>
@@ -65,7 +67,7 @@
                     </ul>
                 </div>
                 <div>
-                    <h6>Consistency throughout</h6>
+                    <h6 class="fw-bold">Consistency throughout</h6>
                     <ul>
                         <li>White okume and gurjan are just a few of the faces available.</li>
                         <li>There are no essential gaps.</li>
@@ -74,7 +76,7 @@
                 </div>
             </div>
         </div>
-        <button class="red-button">READ MORE</button>
+        <button class="red-button fw-bold">Read More</button>
     </div>
 </section>
 <!-- single blog section -->

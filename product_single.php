@@ -62,25 +62,23 @@
                     <h5 class="heading_five text-dark">Available Sizes</h5>
                 </div>
                 <div class="">
-                    <table class="table table-bordered text-center" >
-                        <thead >
+                    <table class="table table-bordered text-center">
+                        <thead>
                             <tr>
-                                <th>Thickness</th>
-                                <th>06mm</th>
-                                <th>09mm</th>
-                                <th>12mm</th>
-                                <th>16mm</th>
-                                <!-- <th>19mm</th> -->
+                                <th class="fw-bold text-danger">Thickness</th>
+                                <th class="fw-bold text-danger">06mm</th>
+                                <th class="fw-bold text-danger">09mm</th>
+                                <th class="fw-bold text-danger">12mm</th>
+                                <th class="fw-bold text-danger">16mm</th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Size(ft.)</td>
-                                <td>8x4</td>
-                                <td>8x3</td>
-                                <td>7x4</td>
-                                <td>7x3</td>
-                                <!-- <td>6x4</td> -->
+                                <td class="fw-bold text-success">Size(ft.)</td>
+                                <td class="fw-bold text-success">8x4</td>
+                                <td class="fw-bold text-success">8x3</td>
+                                <td class="fw-bold text-success">7x4</td>
+                                <td class="fw-bold text-success">7x3</td>
                             </tr>
                         </tbody>
                     </table>
@@ -91,7 +89,7 @@
                         distinctio eius perspiciatis dolore. Unde facere corporis eum magni repellat totam fugit iure ea
                         natus nihil! Possimus suscipit esse nobis, unde quis porro deserunt odit labore.
                     </p>
-                    <a href="#"><button class="red-button sm-center"><i class="fa-sharp fa-solid fa-phone"></i> &nbsp;Get Best Quote</button></a>
+                    <a href="#"><button class="red-button sm-center fw-bold">Get Best Quote</button></a>
                 </div>
             </div>
         </div>
@@ -167,7 +165,7 @@
                 <div class="row bg">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Density</h6>
+                            <h6 class="heading_six fw-bold">Density</h6>
                             <p class="">0.60gm/cm<sup>3</sup></p>
                         </div>
                     </div>
@@ -181,9 +179,8 @@
                 <div class="row bg mt-3">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Thickness Tolerance</h6>
-                            <p class="">Up to 4mm ± 10%
-                                Above 4mm ± 5%</p>
+                            <h6 class="heading_six fw-bold">Thickness Tolerance</h6>
+                            <p class="">Up to 4mm ± 10%</p>
                         </div>
                     </div>
                     <div class="col-5">
@@ -196,7 +193,7 @@
                 <div class="row bg mt-3">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Moisture Content</h6>
+                            <h6 class="heading_six fw-bold">Moisture Content</h6>
                             <p class="">8 to 11%</p>
                         </div>
                     </div>
@@ -210,7 +207,7 @@
                 <div class="row bg mt-3">
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Water Absorption</h6>
+                            <h6 class="heading_six fw-bold">Water Absorption</h6>
                             <p class="">Below 1%</p>
                         </div>
                     </div>
@@ -237,7 +234,7 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Glue Shear Strength Dry</h6>
+                            <h6 class="heading_six fw-bold">Glue Shear Strength Dry</h6>
                             <p class="">> 1350N</p>
                         </div>
                     </div>
@@ -250,7 +247,7 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Glue Shear Strength (Wet)</h6>
+                            <h6 class="heading_six fw-bold">Glue Shear Strength (Wet)</h6>
                             <p class="">> 1000N</p>
                         </div>
                     </div>
@@ -263,7 +260,7 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Tensiole Strength</h6>
+                            <h6 class="heading_six fw-bold">Tensiole Strength</h6>
                             <p class="">Above 450kg/cm2
                             </p>
                         </div>
@@ -278,7 +275,7 @@
                     </div>
                     <div class="col-7">
                         <div class=" p-3">
-                            <h6 class="heading_six fw-bold" style="color: #894A82;">Adhesion of Plies</h6>
+                            <h6 class="heading_six fw-bold">Adhesion of Plies</h6>
                             <p class="">Excellent</p>
                         </div>
                     </div>
@@ -290,15 +287,13 @@
             <div class="col-md-4 col-12" style="border-right: 1px dotted black;">
                 <div>
                     <h5 class="heading_five text-dark"><img src="./assets/images/right_arrow.png" class="img-fluid"
-                            alt="right_arrow"> &nbsp;&nbsp;Static bending Strength (dry)</h5>
-                    <h5 class="heading_five text-dark"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOE (Modules Of
-                        Elasticity)</h5>
+                            alt="right_arrow"> <span class="mx-2">Static bending Strength (dry)</span></h5>
+                    <h5 class="heading_five text-dark"> <span class="mx-4"> &nbsp;&nbsp;MOE (Modules Of Elasticity)</span></h5>
                     <ul>
                         <li>Along the face grain</li>
                         <li>Across the face grain</li>
                     </ul>
-                    <h5 class="heading_five text-dark"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOR (Modules Of
-                        Rupture)</h5>
+                    <h5 class="heading_five text-dark"> <span class="mx-4"> &nbsp;&nbsp;MOR (Modules Of Rupture)</h5>
                     <ul>
                         <li>Along the face grain</li>
                         <li>Across the face grain</li>
@@ -308,15 +303,13 @@
             <div class="col-md-4 col-12" style="border-right: 1px dotted black;">
                 <div>
                     <h5 class="heading_five text-dark"><img src="./assets/images/right_arrow.png" class="img-fluid"
-                            alt="right_arrow"> &nbsp;&nbsp;Static bending Strength (dry)</h5>
-                    <h5 class="heading_five text-dark"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOE (Modules Of
-                        Elasticity)</h5>
+                            alt="right_arrow"> <span class="mx-2">Static bending Strength (dry)</span></h5>
+                    <h5 class="heading_five text-dark"> <span class="mx-4"> &nbsp;&nbsp;MOE (Modules Of Elasticity)</span></h5>
                     <ul>
                         <li>Along the face grain</li>
                         <li>Across the face grain</li>
                     </ul>
-                    <h5 class="heading_five text-dark"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOR (Modules Of
-                        Rupture)</h5>
+                    <h5 class="heading_five text-dark"> <span class="mx-4"> &nbsp;&nbsp;MOR (Modules Of Rupture)</span></h5>
                     <ul>
                         <li>Along the face grain</li>
                         <li>Across the face grain</li>
@@ -326,15 +319,13 @@
             <div class="col-md-4 col-12">
                 <div>
                     <h5 class="heading_five text-dark"><img src="./assets/images/right_arrow.png" class="img-fluid"
-                            alt="right_arrow"> &nbsp;&nbsp;Static bending Strength (dry)</h5>
-                    <h5 class="heading_five text-dark"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOE (Modules Of
-                        Elasticity)</h5>
+                            alt="right_arrow"> <span class="mx-2">Static bending Strength (dry)</span></h5>
+                    <h5 class="heading_five text-dark"> <span class="mx-4"> &nbsp;&nbsp;MOE (Modules Of Elasticity)</span></h5>
                     <ul>
                         <li>Along the face grain</li>
                         <li>Across the face grain</li>
                     </ul>
-                    <h5 class="heading_five text-dark"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOR (Modules Of
-                        Rupture)</h5>
+                    <h5 class="heading_five text-dark"> <span class="mx-4"> &nbsp;&nbsp;MOR (Modules Of Rupture)</h5>
                     <ul>
                         <li>Along the face grain</li>
                         <li>Across the face grain</li>

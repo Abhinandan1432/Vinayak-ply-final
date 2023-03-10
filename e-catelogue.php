@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-12 mt-5">
                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
-                    <div class="carousel-inner" style="border-radius: 3rem;">
+                    <div class="carousel-inner rounded">
                       <div class="carousel-item active">
                         <img src="./assets/slider/slider_one.png"  class="d-block img-fluid w-100" alt="...">
                       </div>

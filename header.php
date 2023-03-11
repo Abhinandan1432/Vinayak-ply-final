@@ -151,3 +151,7 @@
       </div>
     </div>
   </div>
+
+  <!-- move to top -->
+  <button onclick="topFunction()" id="moveTop" title="Go to top"><i class="fa-solid fa-caret-up"></i></button>
+  <!-- move to top -->

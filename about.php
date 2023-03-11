@@ -14,7 +14,7 @@
 <section class="about my-margin">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-12" style="height: 50vh;">
+      <div class="col-md-6 col-12 mb-4" style="height: 50vh;">
         <div class="about_one">
           <img src="./assets/images/about_one.png" class="img-fluid rounded" alt="about_one">
         </div>

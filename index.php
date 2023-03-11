@@ -585,17 +585,17 @@
       <h3 class="heading_three">Latest Reviews</h3>
       <div class="slideshow-container">
 
-        <div class="mySlides animate__animated animate__fadeInRight">
+        <div class="mySlides">
           <q class="text-dark">But man is not made for defeat. A man can be destroyed but not defeated.</q>
           <p class="author">- John Keats</p>
         </div>
 
-        <div class="mySlides animate__animated animate__fadeInRight">
+        <div class="mySlides">
           <q class="text-dark">But man is not made for defeat. A man can be destroyed but not defeated.</q>
           <p class="author">- Ernest Hemingway</p>
         </div>
 
-        <div class="mySlides animate__animated animate__fadeInRight">
+        <div class="mySlides">
           <q class="text-dark">But man is not made for defeat. A man can be destroyed but not defeated.</q>
           <p class="author">- Thomas A. Edison</p>
         </div>

@@ -53,10 +53,10 @@
                 <a class="navbar-brand" href="./index.php">
                     <img src="./assets/logo/Logo.png" alt="logo">
                 </a>
-                <span class="mx-3"></span>
+                <span class="mx-5"></span>
                 <div class="d-block d-md-none">
                     <form class="">
-                        <a href="tel:18003091918" class="red-button text-decoration-none"><i class="fa-sharp fa-solid fa-phone"></i></a>
+                        <a href="tel:18003091918" class="red-button text-decoration-none rounded"><i class="fa-sharp fa-solid fa-phone"></i></a>
                     </form>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

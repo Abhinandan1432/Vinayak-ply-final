@@ -16,27 +16,19 @@
         <div class="row text-center">
             <h3 class="fw-bold">We are avaialable across India, Find <br> your nearest Dealer & Distibutor</h3>
             <div class="">
-                <div class="btn-group">
-                    <button class="btn btn-default border btn-sm dropdown-toggle" type="button"
-                        data-bs-toggle="dropdown" aria-expanded="false">
-                        Select Your State
-                    </button>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Bihar</a></li>
-                        <li><a class="dropdown-item" href="#">Utter Pradesh</a></li>
-                        <li><a class="dropdown-item" href="#">Jharkhand</a></li>
-                    </ul>
-                </div>
-                <div class="btn-group">
-                    <button class="btn btn-default border btn-sm dropdown-toggle" type="button"
-                        data-bs-toggle="dropdown" aria-expanded="false">
-                        Select Your City
-                    </button>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Saharsa</a></li>
-                        <li><a class="dropdown-item" href="#">Madhepura</a></li>
-                        <li><a class="dropdown-item" href="#">Patna</a></li>
-                    </ul>
+                <div class="d-flex">
+                    <select class="form-control mx-1" name="" id="">
+                        <option value="">select your state</option>
+                        <option value="Bihar">Bihar</option>
+                        <option value="Utter Pradesh">Utter Pradesh</option>
+                        <option value="Jharkhand">Jharkhand</option>
+                    </select>
+                    <select class="form-control mx-1" name="" id="">
+                        <option value="">select your city</option>
+                        <option value="Bihar">Saharsa</option>
+                        <option value="Utter Pradesh">Patna</option>
+                        <option value="Jharkhand">Madhepura</option>
+                    </select>
                 </div>
                 <div class=" mt-3">
                     <a href="#"><button class="red-button sm-center fw-bold">Reset</button></a>

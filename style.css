@@ -56,6 +56,25 @@ Backend Developer:- Ashwin Kumar
     line-height: 22px;
 
 }
+.navbar .d-block .red-button{
+    padding: 7px 14px;
+    gap: 10px;
+    background: var(--red);
+    border-radius: none;
+    box-sizing: border-box;
+    color: var(--white);
+    border: none;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+}
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0;
+}
 
 .white-button {
     padding: 7px 14px;

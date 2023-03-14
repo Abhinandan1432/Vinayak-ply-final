@@ -771,6 +771,25 @@ footer li:hover {
     box-shadow: 0 0 0 0;
 }
 
+/* darpan page css  */
+.carpenter .carpenter-inner{
+    background-image: url(./assets/images/carpenter_img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh;
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+.carpenter .carpenter-inner div{
+    position: absolute;
+    bottom: 0;
+}
+.carpenter .carpenter-inner div .heading_five{
+    line-height: 16px;
+}
+/* darpan page css  */
+
 
 /* move to top */
 #moveTop {

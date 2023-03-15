@@ -53,7 +53,7 @@
                 <a class="navbar-brand" href="./index.php">
                     <img src="./assets/logo/Logo.png" alt="logo">
                 </a>
-                <span class="mx-5"></span>
+                <span class="mx-5 d-block d-md-none"></span>
                 <div class="d-block d-md-none">
                     <form class="">
                         <a href="tel:18003091918" class="red-button text-decoration-none rounded"><i class="fa-sharp fa-solid fa-phone"></i></a>
@@ -74,7 +74,7 @@
                         </li>
                         <li class="nav-item dropdown dropdown-mega position-static">
                             <!-- <a class="nav-link" href="#">Products</a> -->
-                            <a class="nav-link dropdown-toggle fw-bold text-dark text-uppercase" href="#" data-bs-toggle="dropdown"
+                            <a class="nav-link dropdown-toggle fw-bold text-dark text-uppercase mega-menu" href="#" data-bs-toggle="dropdown"
                                 data-bs-auto-close="outside">Products</a>
                             <div class="dropdown-menu py-5 shadow w-100">
                                 <div class="mega-content px-4">
@@ -103,7 +103,7 @@
                                             </div>
                                             <div class="col-12 col-sm-4 col-md-6">
                                                 <div class="pt-4">
-                                                    <img src="./assets/images/mega_menu.png" class="img-fluid"
+                                                    <img src="./assets/images/mega_menu.png" class="img-fluid rounded"
                                                         alt="mega_menu">
                                                 </div>
                                             </div>

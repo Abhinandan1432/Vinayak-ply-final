@@ -1,7 +1,6 @@
 /* 
 Website Name:- VINAYAK PLY
 Frontend Developer:- Abhinandan kumar
-Backend Developer:- Ashwin Kumar
 */
 
 /* Our global css starts from here  */
@@ -28,7 +27,8 @@ Backend Developer:- Ashwin Kumar
     --solidred: 1px solid var(--red);
 
     /*border-radius variables*/
-    --radius: 20px;
+    /* --radius:20px; */
+    --radius: 0.25rem;
     /* margin */
     --margin: 5rem 0rem;
     /* padding */
@@ -54,6 +54,7 @@ Backend Developer:- Ashwin Kumar
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
+    text-transform: uppercase;
 
 }
 .navbar .d-block .red-button{
@@ -89,6 +90,7 @@ Backend Developer:- Ashwin Kumar
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
+    text-transform: uppercase;
 
 }
 
@@ -104,6 +106,7 @@ Backend Developer:- Ashwin Kumar
     color: var(--red);
     border: 1px solid #ED1C24;
     border-radius: 8px;
+    text-transform: uppercase;
 }
 
 /* buttons css ends here */
@@ -745,7 +748,7 @@ footer li:hover {
     right: 550px;
     transition: 0.7s all;
   }
-  .nav-item a:hover:before{
+  .nav-item .nav-link:hover:before{
     right: 0;
   }
   .nav-item a:hover{
@@ -788,6 +791,16 @@ footer li:hover {
 .carpenter .carpenter-inner div .heading_five{
     line-height: 16px;
 }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #A6CE39;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link:hover {
+    color: #fff !important;
+}
+.carpenter .nav-item a:before{
+    border-bottom: none;
+  }
 /* darpan page css  */
 
 

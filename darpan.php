@@ -70,209 +70,254 @@
 <!-- carpenter section -->
 <section class="carpenter my-5">
   <div class="container">
-    <h3 class="heading_three text-center mb-5">VinayakPly Darpan</h3>
+    <h3 class="heading_three text-center mb-5">Carpenter Meet</h3>
     <div class="row">
       <div class="d-flex justify-content-center mb-5">
-        <ul class="nav nav-tabs" id="myTab" role="tablist">
-          <li class="nav-item" role="presentation">
-            <button class="nav-link active border-0" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
-              role="tab" aria-controls="home" aria-selected="true">Delhi</button>
+        <ul class="nav nav-pills" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active text-uppercase white-button shadow text-dark" data-bs-toggle="pill" href="#Delhi">Delhi</a>
           </li>
-          <li class="nav-item" role="presentation">
-            <button class="nav-link border-0" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button"
-              role="tab" aria-controls="profile" aria-selected="false">Utter-Pradesh</button>
+          <li class="nav-item">
+            <a class="nav-link text-uppercase white-button shadow mx-2 text-dark" data-bs-toggle="pill" href="#up">Uttar-Pradesh</a>
           </li>
-          <li class="nav-item" role="presentation">
-            <button class="nav-link border-0" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button"
-              role="tab" aria-controls="contact" aria-selected="false">Jaipur</button>
+          <li class="nav-item">
+            <a class="nav-link white-button shadow text-uppercase text-dark" data-bs-toggle="pill" href="#jaipur">Jaipur</a>
           </li>
         </ul>
       </div>
-      <div class="tab-content" id="myTabContent">
-        <div class="tab-pane show active bg-white" id="home" role="tabpanel" aria-labelledby="home-tab">
+      <div class="tab-content">
+        <div id="Delhi" class="container tab-pane active bg-white"><br>
           <div class="row">
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
           </div>
           <div class="row">
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
           </div>
         </div>
-        <div class="tab-pane bg-white" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+        <div id="up" class="container tab-pane fade bg-white"><br>
           <div class="row">
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
           </div>
           <div class="row">
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
           </div>
         </div>
-        <div class="tab-pane bg-white" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+        <div id="jaipur" class="container tab-pane fade bg-white"><br>
           <div class="row">
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
           </div>
           <div class="row">
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
-            <div class="col-md-3 col-6"><div class="carpenter-inner">
-              <div class="px-3">
-                <h6 class="heading_six">New Delhi</h6>
-                <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors Manufacturing Unit [4K]</h5>
+            <div class="col-md-3 col-6">
+              <div class="carpenter-inner rounded">
+                <div class="px-3">
+                  <h6 class="heading_six">New Delhi</h6>
+                  <h5 class="heading_five">Connect with Vinayak Ply Factory Tour: Block Board and Flush Doors
+                    Manufacturing Unit [4K]</h5>
+                </div>
               </div>
             </div>
-          </div>
           </div>
         </div>
       </div>
@@ -286,97 +331,67 @@
 <section class="exhibition my-5">
   <div class="container">
     <div class="row">
-      <h3 class="heading_three text-center mb-5">Exhibition</h3>
-      <h4 class="heading_four">Delhi</h4>
+      <h3 class="heading_three text-center mb-5 text-uppercase">Exhibition</h3>
+      <h4 class="heading_four text-uppercase fw-bold">Delhi</h4>
       <div class="wrapper-with-margin">
         <div id="owl-demo" class="owl-carousel">
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="product_one">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_two.png" class="card-img-top img-fluid" alt="product_two">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_three.png" class="card-img-top img-fluid" alt="product_three">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card border-0">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
-                <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
-              </div>
             </div>
           </div>
 

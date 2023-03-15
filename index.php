@@ -334,47 +334,55 @@
 <!-- video carousel section ends here------- -->
 
 <!-- our journey section starts here -->
-<section class="journey d-none d-md-block" style="height: 50vh;">
+<section class="journey d-none d-md-block my-5">
   <div class="container">
-    <h3 class="heading_three">Our journey</h3>
-    <div class="row">
-      <div class="col-md-3 col-12" style="bottom: -13rem; position:relative;">
-        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2004</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+    <h3 class="heading_three text-dark">Our journey</h3>
+    <div class="row my-4">
+      <div class="col-md-3 col-12">
+        <div class="shadow p-3 h-100 journey-card">
+              <div class="d-flex">
+                <h4 class="heading_four">2004</h4>
+                <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+              </div>
+            <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply it’s a Brand Received by Notoriety Throughout all over India
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-12" style="bottom: -10rem; position:relative;">
-        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2008</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+      <div class="col-md-3 col-12">
+        <div class="shadow p-3 h-100 journey-card">
+          <div class="d-flex">
+            <h4 class="heading_four">2008</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+        <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             As a budding startup, the firm's two managing directors started by trading in timber.
 
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-12" style="bottom: -7rem; position:relative;">
-        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2019</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+      <div class="col-md-3 col-12">
+        <div class="shadow p-3 h-100 journey-card">
+          <div class="d-flex">
+            <h4 class="heading_four">2019</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+        <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayakply with a larger goal in mind, and the path he took led him to begin with the idea.
 
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-12" style="bottom: -4rem; position:relative;">
-        <div class="shadow p-3 h-100" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2021</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+      <div class="col-md-3 col-12">
+        <div class="shadow p-3 h-100 journey-card">
+          <div class="d-flex">
+            <h4 class="heading_four">2021</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+        <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply, starting his own plywood brand was always in mind and his dream came true.
           </p>
@@ -384,47 +392,55 @@
   </div>
 </section>
 <!-- For mobile  -->
-<section class="journey d-md-none" style="height: auto;">
+<section class="journey d-md-none my-margin" style="height: auto;">
   <div class="container">
-    <h3 class="heading_three">Our journey</h3>
-    <div class="row">
-      <div class="col-md-3 col-12">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2004</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+    <h3 class="heading_three text-dark">Our journey</h3>
+    <div class="row my-4">
+      <div class="col-12 mb-4">
+        <div class="shadow p-3 h-100 journey-card">
+              <div class="d-flex">
+                <h4 class="heading_four">2004</h4>
+                <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+              </div>
+            <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply it’s a Brand Received by Notoriety Throughout all over India
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2008</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+      <div class="col-12 mb-4">
+        <div class="shadow p-3 h-100 journey-card">
+          <div class="d-flex">
+            <h4 class="heading_four">2008</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+        <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             As a budding startup, the firm's two managing directors started by trading in timber.
 
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2019</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+      <div class="col-12 mb-4">
+        <div class="shadow p-3 h-100 journey-card">
+          <div class="d-flex">
+            <h4 class="heading_four">2019</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+        <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayakply with a larger goal in mind, and the path he took led him to begin with the idea.
 
           </p>
         </div>
       </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div class="shadow p-3" style="border-top:4px solid green ; border-radius: 20px;">
-          <span class="d-flex" style="border-bottom:2px solid red; width: 4rem;"> <span class="">
-              <h4 class="heading_four">2021</h4>
-            </span> &nbsp;&nbsp; <span><img src="./assets/logo/growth-arrow.png" alt=""></span></span>
+      <div class="col-12 mb-4">
+        <div class="shadow p-3 h-100 journey-card">
+          <div class="d-flex">
+            <h4 class="heading_four">2021</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+        <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply, starting his own plywood brand was always in mind and his dream came true.
           </p>
@@ -449,7 +465,7 @@
         </div>
       </div>
       <div class="col-md-4 col-12 sm-pd-top">
-        <div class="card box-shadow">
+        <div class="card box-shadow rounded">
           <img src="./assets/blogs/blog_img_one.png" class="card-img-top img-fluid" alt="blog_img_one">
           <div class="card-body">
             <h5 class="card-title heading_five text-dark">BADROOM</h5>
@@ -463,7 +479,7 @@
         </div>
       </div>
       <div class="col-md-4 col-12 sm-pd-top">
-        <div class="card box-shadow">
+        <div class="card box-shadow rounded">
           <img src="./assets/blogs/blog_img_two.png" class="card-img-top img-fluid" alt="blog_img_two">
           <div class="card-body">
             <h5 class="card-title heading_five text-dark">BADROOM</h5>
@@ -477,7 +493,7 @@
         </div>
       </div>
       <div class="col-md-4 col-12 sm-pd-top">
-        <div class="card box-shadow">
+        <div class="card box-shadow rounded">
           <img src="./assets/blogs/blog_img_three.png" class="card-img-top img-fluid" alt="blog_img_three">
           <div class="card-body">
             <h5 class="card-title heading_five text-dark">BADROOM</h5>
@@ -519,7 +535,7 @@
   <div class="container">
     <div class="row">
       <h3 class="heading_three">Latest Reviews</h3>
-      <div class="slideshow-container">
+      <div class="slideshow-container rounded">
 
         <div class="mySlides">
           <q class="text-dark">But man is not made for defeat. A man can be destroyed but not defeated.</q>

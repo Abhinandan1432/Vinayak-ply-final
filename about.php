@@ -28,7 +28,7 @@
       <div class="col-md-6 col-12">
         <div class="">
           <h3 class="heading_three text-dark">
-            We are a full full Timber <br> Woods Provider
+            We are a full Timber <br> Woods Provider
           </h3>
           <div id="red-line" class="w-25 mb-3"></div>
           <p class="paragraph ">

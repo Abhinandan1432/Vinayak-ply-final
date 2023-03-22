@@ -229,7 +229,7 @@
         <h3 class="heading_three">We Are Certified by</h3>
       </div>
       <div class="col-md-2 col-12 d-none d-md-block">
-        <div class="">
+        <div class="d-flex justify-content-end">
           <a href="#"><button class="red-button">View More</button></a>
         </div>
       </div>
@@ -460,7 +460,7 @@
         <h3 class="heading_three">Our Blogs</h3>
       </div>
       <div class="col-md-2 col-12 d-none d-md-block">
-        <div class="">
+        <div class="d-flex justify-content-end">
           <a href="#"><button class="red-button">Read More</button></a>
         </div>
       </div>

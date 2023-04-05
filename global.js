@@ -30,15 +30,42 @@ $("#owl-slider").owlCarousel({
 });
 
 
-
-// our product categories starts here
-var owl = $('.owl-carousel');
-owl.owlCarousel({
+$("#ex").owlCarousel({
+  merge:true,
   items: 1,
   loop: true,
   margin: 20,
   autoplay: true,
-  autoplayTimeout: 3000,
+  autoplayTimeout: 5000,
+  autoplaySpeed:2000,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 2.5
+    },
+    960: {
+      items: 3.5
+    },
+    1200: {
+      items: 2.4
+    }
+  }
+})
+
+
+// our product categories starts here
+var owl = $('.owl-carousel');
+owl.owlCarousel({
+  merge:true,
+  items: 1,
+  loop: true,
+  margin: 20,
+  autoplay: true,
+  autoplayTimeout: 5000,
+  autoplaySpeed:2000,
   autoplayHoverPause: true,
   responsive: {
     0: {

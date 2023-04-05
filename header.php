@@ -80,7 +80,7 @@
                                 <div class="mega-content px-4">
                                     <div class="container">
                                         <div class="row">
-                                            <div class="col-12 col-sm-4 col-md-3">
+                                            <div class="col-12 col-sm-3 col-md-3">
                                                 <h5 class="heading_five text-dark text-uppercase fw-bold">Plywood</h5>
                                                 <div id="red-line"></div>
                                                 
@@ -91,7 +91,7 @@
                                                     <a class="list-group-item px-0 fw-bold" href="#">Linus Pro IS 303 MR Plywood</a>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-sm-4 col-md-3">
+                                            <div class="col-12 col-sm-3 col-md-3">
                                                 <h5 class="heading_five text-dark text-uppercase fw-bold">Doors</h5>
                                                 <div id="red-line"></div>
                                                 <div class="list-group">
@@ -101,7 +101,18 @@
                                                     <a class="list-group-item px-0 fw-bold" href="#">Block Board</a>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-sm-4 col-md-6">
+                                            <div class="col-12 col-sm-3 col-md-2">
+                                                <h5 class="heading_five text-dark text-uppercase fw-bold">Pages</h5>
+                                                <div id="red-line"></div>
+                                                <div class="list-group">
+                                                    <a class="list-group-item px-0 fw-bold" href="./darpan.php">Darpan</a>
+                                                    <a class="list-group-item px-0 fw-bold" href="./media.php">Media</a>
+                                                    <a class="list-group-item px-0 fw-bold" href="./carpenter-meet.php">Carpenter Meet</a>
+                                                    <a class="list-group-item px-0 fw-bold" href="./dealer.php">Dealer</a>
+                                                    <a class="list-group-item px-0 fw-bold" href="./exhibition.php">Exhibition</a>
+                                                </div>
+                                            </div>
+                                            <div class="col-12 col-sm-3 col-md-4">
                                                 <div class="pt-4">
                                                     <img src="./assets/images/mega_menu.png" class="img-fluid rounded"
                                                         alt="mega_menu">

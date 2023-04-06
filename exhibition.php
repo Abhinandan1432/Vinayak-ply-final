@@ -57,7 +57,7 @@
             </div>
         </div>
     </div>
-    </div>
+
 </section>
 <!-- exibition section -->
 

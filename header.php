@@ -39,6 +39,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <!-- animate.style css link -->
 
+    <!--ekko lightbox gallery -->
+<link rel="stylesheet" href="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css">
+    <!--ekko lightbox gallery -->
+
     <!-- our global css link -->
     <link rel="stylesheet" href="./style.css">
     <!-- our global css  -->

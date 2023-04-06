@@ -15,8 +15,8 @@ $('#pagination-demo').twbsPagination({
 
 $("#owl-slider").owlCarousel({
   animateOut: 'fadeOut',
-  items:1,
-  smartSpeed:450,
+  items: 1,
+  smartSpeed: 450,
   nav: false,
   dots: true,
   loop: true,
@@ -31,13 +31,13 @@ $("#owl-slider").owlCarousel({
 
 
 $("#ex").owlCarousel({
-  merge:true,
+  merge: true,
   items: 1,
   loop: true,
   margin: 20,
   autoplay: true,
   autoplayTimeout: 5000,
-  autoplaySpeed:2000,
+  autoplaySpeed: 2000,
   autoplayHoverPause: true,
   responsive: {
     0: {
@@ -59,13 +59,13 @@ $("#ex").owlCarousel({
 // our product categories starts here
 var owl = $('.owl-carousel');
 owl.owlCarousel({
-  merge:true,
+  merge: true,
   items: 1,
   loop: true,
   margin: 20,
   autoplay: true,
   autoplayTimeout: 5000,
-  autoplaySpeed:2000,
+  autoplaySpeed: 2000,
   autoplayHoverPause: true,
   responsive: {
     0: {
@@ -107,27 +107,27 @@ function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
+  if (n > slides.length) { slideIndex = 1 }
+  if (n < 1) { slideIndex = slides.length }
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+    slides[i].style.display = "none";
   }
   for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+    dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+  slides[slideIndex - 1].style.display = "block";
+  dots[slideIndex - 1].className += " active";
 }
 // testimonial js ends here
 
 
 // mega menu starts
-document.addEventListener('click',function(e){
+document.addEventListener('click', function (e) {
   // Hamburger menu
-  if(e.target.classList.contains('hamburger-toggle')){
+  if (e.target.classList.contains('hamburger-toggle')) {
     e.target.children[0].classList.toggle('active');
   }
-}) 
+})
 // mega menu ends
 
 // swiper slider starts
@@ -150,13 +150,13 @@ var swiper2 = new Swiper(".mySwiper2", {
   },
 });
 // swiper slider ends
-$(document).ready(function(){       
+$(document).ready(function () {
   $('#myModal').modal('show');
-   }); 
+});
 
-  //  move to top
-  let mybutton = document.getElementById("moveTop");
-window.onscroll = function() {scrollFunction()};
+//  move to top
+let mybutton = document.getElementById("moveTop");
+window.onscroll = function () { scrollFunction() };
 
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -169,4 +169,8 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
-  //  move to top
+//  move to top
+
+// lightbox
+
+  // lightbox

@@ -1,27 +1,26 @@
 <?php require_once('header.php') ?>
 <!-- breadcrumb section starts -->
-<section class="product_single_breadcrumb">
-    <div class="container-fluid">
-        <div class="row">
-
-        </div>
-    </div>
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
+  <div class="container-fluid">
+      <div class="row">
+          <h3 class="heading_three text-capitalize text-center text-white">Vinayak Ply Company Profile</h3>
+      </div>
+  </div>
 </section>
 <!-- breadcrumb section ends -->
 
 <!-- catelogue section starts -->
 <section class="my-margin">
     <div class="container">
-        <h2 class="heading_two text-uppercase text-center text-danger">Vinayak Ply Company Profile</h2>
         <div class="row">
             <div class="col-12 mt-5">
                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                     <div class="carousel-inner rounded">
                       <div class="carousel-item active">
-                        <img src="./assets/slider/slider_one.png"  class="d-block img-fluid w-100" alt="...">
+                        <img src="./assets/breadcrumb/about.png"  class="d-block img-fluid w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="./assets/slider/slider_two.png" class="d-block img-fluid w-100" alt="...">
+                        <img src="./assets/breadcrumb/about.png" class="d-block img-fluid w-100" alt="...">
                       </div>
                       <div class="carousel-item">
                         <img src="./assets/breadcrumb/about.png" class="d-block img-fluid w-100" alt="...">

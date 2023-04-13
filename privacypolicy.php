@@ -1,19 +1,18 @@
 <?php require_once('header.php') ?>
 
 <!-- breadcrumb section starts -->
-<section class="product_single_breadcrumb">
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
     <div class="container-fluid">
         <div class="row">
-
+            <h3 class="heading_three text-capitalize text-center text-white">Privacy Policy</h3>
         </div>
     </div>
-</section>
+  </section>
 <!-- breadcrumb section ends -->
 
 <!-- privacy section starts -->
 <section class="privacy my-margin">
     <div class="container">
-        <h2 class="heading_two text-center text-dark">PRIVACY POLICY</h2>
         <div class="row">
             <div class="col-12">
                 <div class="">

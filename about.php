@@ -1,11 +1,11 @@
 <?php require_once('header.php') ?>
 
 <!-- breadcrumb section starts -->
-<section class="about_breadcrumb">
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
   <div class="container-fluid">
-    <div class="row">
-
-    </div>
+      <div class="row">
+          <h3 class="heading_three text-capitalize text-center text-white">About</h3>
+      </div>
   </div>
 </section>
 <!-- breadcrumb section ends -->

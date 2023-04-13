@@ -1,11 +1,11 @@
 <?php require_once('header.php') ?>
 
 <!-- breadcrumb section starts -->
-<section class="about_breadcrumb">
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
   <div class="container-fluid">
-    <div class="row">
-
-    </div>
+      <div class="row">
+          <h3 class="heading_three text-capitalize text-center text-white">Carpenter Meet</h3>
+      </div>
   </div>
 </section>
 <!-- breadcrumb section ends -->
@@ -13,7 +13,6 @@
 <!-- carpenter section -->
 <section class="carpenter my-5">
     <div class="container">
-      <h3 class="heading_three text-center mb-5">Carpenter Meet</h3>
       <div class="row">
         <div class="d-flex justify-content-center mb-5">
           <ul class="nav nav-pills justify-content-center" role="tablist">

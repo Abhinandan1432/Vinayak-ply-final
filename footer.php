@@ -57,7 +57,8 @@
                 <p class="fw-bold text-dark sm-center">
                     Vinayak Ply looks for a long association, wherein zeal for profitability and quality services is most considerable.​
                 </p>
-                <div class="input-group mb-3">
+                <input type="text" class="form-control"id="subscribe-name" placeholder="Your Name">
+                <div class="input-group my-3">
                     <input type="text" class="form-control" placeholder="Your Email Address" aria-label="Your Email Address" aria-describedby="basic-addon2">
                     <span class="input-group-text red-button" id="basic-addon2"><a href="" class="text-white">SUBSCRIBE</a></span>
                   </div>
@@ -71,13 +72,13 @@
         </div>
         <div class="row py-3 sm-center">
             <div class="col-md-6 col-12">
-                <h6 class="heading_six" style="color: #C9C9C9;">
+                <h6 class="heading_six" style="color: #7c7a7a;">
                     Copyright @ 2022 <a href="./index.php" class="text-decoration-none"><strong
-                            class="text-dark">VINAYAK PLY</strong></a>. All Right Reserved.
+                            class="text-dark">vinayak ply</strong></a>. All Right Reserved.
                 </h6>
             </div>
             <div class="col-md-6 col-12 sm-center" style="text-align: end;">
-                <h6 class="heading_six" style="color: #C9C9C9;">Design and Developed by<a href="https://ntpl.world/" target="_blank" class="text-decoration-none "><strong class="text-dark"> NTPL-WORLD</strong></a></h6>
+                <h6 class="heading_six" style="color: #7c7a7a;">Design &amp; Developed by<a href="https://ntpl.world/" target="_blank" class="text-decoration-none "><strong class="text-dark"> ntpl.world</strong></a></h6>
             </div>
         </div>
     </div>
@@ -117,7 +118,12 @@ lightGallery(document.getElementById('lightgallery'))
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.2/jquery.twbsPagination.min.js"></script>
 <!-- paginations -->
 
-
+<script>
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+</script>
 <!-- global js link -->
 <script src="./global.js"></script>
 <!-- global js link -->

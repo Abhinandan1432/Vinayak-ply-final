@@ -5,13 +5,13 @@
 ?>
 
 <!-- breadcrumb section starts -->
-<section class="about_breadcrumb">
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
     <div class="container-fluid">
         <div class="row">
-
+            <h3 class="heading_three text-capitalize text-center text-white">Certificate</h3>
         </div>
     </div>
-</section>
+  </section>
 <!-- breadcrumb section ends -->
 
 <!-- certifications sections -->

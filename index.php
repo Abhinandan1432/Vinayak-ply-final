@@ -18,8 +18,8 @@
                 install it on any android device and share your experience with us.</strong>
             </p>
             <div class="">
-              <a href="#"><button class="red-button sm-center">Download Now</button></a>
-              <a href="#"><button class="white-button sm-center">Download Now</button></a>
+              <a href="#"><button class="red-button sm-center">View More</button></a>
+              <!-- <a href="#"><button class="white-button sm-center">Download Now</button></a> -->
             </div>
           </div>
           <div class="col-md-4 col-sm-12"> </div>
@@ -43,8 +43,8 @@
                 install it on any android device and share your experience with us.</strong>
             </p>
             <div class="">
-              <a href="#"><button class="red-button sm-center">Download Now</button></a>
-              <a href="#"><button class="white-button sm-center">Download Now</button></a>
+              <a href="#"><button class="red-button sm-center">View More</button></a>
+              <!-- <a href="#"><button class="white-button sm-center">Download Now</button></a> -->
             </div>
           </div>
           <div class="col-md-4 col-sm-12">
@@ -70,8 +70,8 @@
                 install it on any android device and share your experience with us.</strong>
             </p>
             <div class="">
-              <a href="#"><button class="red-button sm-center">Download Now</button></a>
-              <a href="#"><button class="white-button sm-center">Download Now</button></a>
+              <a href="#"><button class="red-button sm-center">View More</button></a>
+              <!-- <a href="#"><button class="white-button sm-center">Download Now</button></a> -->
             </div>
           </div>
           <div class="col-md-4 col-sm-12">
@@ -92,97 +92,97 @@
 
 <!----------HTML code starts here------->
 
-<section class="my-margin">
+<section class="home-products my-margin">
   <div class="container">
     <div class="row">
       <h3 class="heading_three">Products</h3>
       <div class="wrapper-with-margin">
         <div id="owl-demo" class="owl-carousel">
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="product_one">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_two.png" class="card-img-top img-fluid" alt="product_two">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_three.png" class="card-img-top img-fluid" alt="product_three">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
           </div>
 
           <div>
-            <div class="card inner-padding">
+            <div class="card">
               <img src="./assets/products/product_one.png" class="card-img-top img-fluid" alt="...">
-              <div class="card-body text-center">
+              <div class="card-body text-center p-3">
                 <h5 class="card-title text-dark">Opaque IS 710 BWP Plywood</h5>
               </div>
             </div>
@@ -465,7 +465,7 @@
         </div>
       </div>
       <div class="col-md-4 col-12 sm-pd-top">
-        <div class="card box-shadow rounded">
+        <div class="card box-shadow rounded h-100">
           <img src="./assets/blogs/blog_img_one.png" class="card-img-top img-fluid" alt="blog_img_one">
           <div class="card-body">
             <h5 class="card-title heading_five text-dark">BADROOM</h5>
@@ -479,7 +479,7 @@
         </div>
       </div>
       <div class="col-md-4 col-12 sm-pd-top">
-        <div class="card box-shadow rounded">
+        <div class="card box-shadow rounded h-100">
           <img src="./assets/blogs/blog_img_two.png" class="card-img-top img-fluid" alt="blog_img_two">
           <div class="card-body">
             <h5 class="card-title heading_five text-dark">BADROOM</h5>
@@ -493,7 +493,7 @@
         </div>
       </div>
       <div class="col-md-4 col-12 sm-pd-top">
-        <div class="card box-shadow rounded">
+        <div class="card box-shadow rounded h-100">
           <img src="./assets/blogs/blog_img_three.png" class="card-img-top img-fluid" alt="blog_img_three">
           <div class="card-body">
             <h5 class="card-title heading_five text-dark">BADROOM</h5>

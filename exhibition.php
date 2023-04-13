@@ -1,10 +1,10 @@
 <?php require_once('header.php') ?>
 
 <!-- breadcrumb section starts -->
-<section class="about_breadcrumb">
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
     <div class="container-fluid">
         <div class="row">
-
+            <h3 class="heading_three text-capitalize text-center text-white">Exhibition</h3>
         </div>
     </div>
 </section>
@@ -12,11 +12,8 @@
 
 <!-- exibition section -->
 <section class="exhibition my-5">
-    <div class="container-fluid">
-        <div class="container">
-            <h3 class="heading_three text-center mb-5 text-uppercase">Exhibition</h3>
+    <div class="container">
             <h4 class="heading_four text-uppercase fw-bold">Delhi</h4>
-        </div>
         <div class="row">
             <div class="wrapper-with-margin">
                 <div id="ex" class="owl-carousel">

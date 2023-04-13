@@ -71,31 +71,31 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" aria-current="page" href="./index.php">Home</a>
+                            <a class="nav-link fw-bold text-dark" aria-current="page" href="./index.php">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" href="./about.php">About</a>
+                            <a class="nav-link fw-bold text-dark" href="./about.php">About</a>
                         </li>
                         <li class="nav-item dropdown dropdown-mega position-static">
                             <!-- <a class="nav-link" href="#">Products</a> -->
-                            <a class="nav-link dropdown-toggle fw-bold text-dark text-uppercase mega-menu" href="#" data-bs-toggle="dropdown"
+                            <a class="nav-link dropdown-toggle fw-bold text-dark mega-menu" href="#" data-bs-toggle="dropdown"
                                 data-bs-auto-close="outside">Products</a>
                             <div class="dropdown-menu py-5 shadow w-100">
                                 <div class="mega-content px-4">
                                     <div class="container">
                                         <div class="row">
-                                            <div class="col-12 col-sm-3 col-md-3">
+                                            <div class="col-12 col-sm-4 col-md-4">
                                                 <h5 class="heading_five text-dark text-uppercase fw-bold">Plywood</h5>
                                                 <div id="red-line"></div>
                                                 
                                                 <div class="list-group">
-                                                    <a class="list-group-item px-0 fw-bold" href="#">Waterproof</a>
+                                                    <a class="list-group-item px-0 fw-bold" href="./product.php">Waterproof</a>
                                                     <a class="list-group-item px-0 fw-bold" href="#">Water Resistant</a>
                                                     <a class="list-group-item px-0 fw-bold" href="#">Made to Order</a>
                                                     <a class="list-group-item px-0 fw-bold" href="#">Linus Pro IS 303 MR Plywood</a>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-sm-3 col-md-3">
+                                            <div class="col-12 col-sm-4 col-md-4">
                                                 <h5 class="heading_five text-dark text-uppercase fw-bold">Doors</h5>
                                                 <div id="red-line"></div>
                                                 <div class="list-group">
@@ -105,18 +105,7 @@
                                                     <a class="list-group-item px-0 fw-bold" href="#">Block Board</a>
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-sm-3 col-md-2">
-                                                <h5 class="heading_five text-dark text-uppercase fw-bold">Pages</h5>
-                                                <div id="red-line"></div>
-                                                <div class="list-group">
-                                                    <a class="list-group-item px-0 fw-bold" href="./darpan.php">Darpan</a>
-                                                    <a class="list-group-item px-0 fw-bold" href="./media.php">Media</a>
-                                                    <a class="list-group-item px-0 fw-bold" href="./carpenter-meet.php">Carpenter Meet</a>
-                                                    <a class="list-group-item px-0 fw-bold" href="./dealer.php">Dealer</a>
-                                                    <a class="list-group-item px-0 fw-bold" href="./exhibition.php">Exhibition</a>
-                                                </div>
-                                            </div>
-                                            <div class="col-12 col-sm-3 col-md-4">
+                                            <div class="col-12 col-sm-4 col-md-4">
                                                 <div class="pt-4">
                                                     <img src="./assets/images/mega_menu.png" class="img-fluid rounded"
                                                         alt="mega_menu">
@@ -127,24 +116,41 @@
                                 </div>
                             </div>
                         </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle fw-bold text-dark mega-menu" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                              Media
+                            </a>
+                            <ul class="dropdown-menu my-3 border-0 shadow" aria-labelledby="dropdownMenuButton1">
+                              <li><a class="dropdown-item" href="./media.php">Media</a></li>
+                              <li><a class="dropdown-item" href="./darpan.php">Darpan</a></li>
+                              <li><a class="dropdown-item" href="./exhibition.php">Exhibition</a></li>
+                              <li><a class="dropdown-item" href="./carpenter-meet.php">Carpenter Meet</a></li>
+                            </ul>
+                          </li>
+                        <!-- <li class="nav-item">
+                            <a class="nav-link fw-bold text-dark" href="./product_single.php">Product Single</a>
+                        </li> -->
                         <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" href="./product_single.php">Product Single</a>
+                            <a class="nav-link fw-bold text-dark" href="./e-catelogue.php">E-Catalogue</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" href="./contact.php">Contact</a>
+                            <a class="nav-link fw-bold text-dark" href="./dealer.php">Dealer Locator</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" href="./e-catelogue.php">E-Catalogue</a>
+                            <a class="nav-link fw-bold text-dark" href="./blog.php">Blog</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" href="./blog.php">Blog</a>
+                            <a class="nav-link fw-bold text-dark" href="./contact.php">Contact</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link fw-bold text-dark text-uppercase" href="./privacypolicy.php">Privacy Policy</a>
-                        </li>
+                        <!-- <li class="nav-item">
+                            <a class="nav-link fw-bold text-dark" href="./privacypolicy.php">Privacy Policy</a>
+                        </li> -->
                     </ul>
-                    <form class="d-flex d-none d-md-block">
-                        <a href="tel:18003091918" class="red-button text-decoration-none fw-bold"><i class="fa-sharp fa-solid fa-phone"></i> Toll free Number</a>
+                    <form class="d-flex d-none d-md-block d-lg-block d-xl-none">
+                        <a href="tel:18003091918" class="red-button text-decoration-none fw-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="18003091918"><i class="fa-sharp fa-solid fa-phone"></i><span class="d-md-none d-lg-none d-xl-none"> Toll free Number</span></a>
+                    </form>
+                    <form class="d-flex d-none d-md-none d-lg-none d-xl-block">
+                        <a href="tel:18003091918" class="red-button text-decoration-none fw-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="18003091918"><i class="fa-sharp fa-solid fa-phone"></i><span class=""> Toll free Number</span></a>
                     </form>
                 </div>
             </div>

@@ -1,12 +1,12 @@
 <?php require_once('header.php') ?>
 
 <!-- breadcrumb section starts -->
-<section class="product_single_breadcrumb">
-    <div class="container-fluid">
-        <div class="row">
-
-        </div>
-    </div>
+<section class="about_breadcrumb d-flex align-items-center justify-content-center">
+  <div class="container-fluid">
+      <div class="row">
+          <h3 class="heading_three text-capitalize text-center text-white">Contact details</h3>
+      </div>
+  </div>
 </section>
 <!-- breadcrumb section ends -->
 
@@ -17,7 +17,6 @@
             <div class="col-md-3 col-12"></div>
             <div class="col-md-6 col-12">
                 <div class="">
-                    <h2 class="heading_two text-uppercase text-dark text-center">Contact details</h2>
                     <h5 class="heading_five text-dark text-center">
                         Write to us or give us a call now, Vinayak ply is always happy to provide a free consultation
                         and help out with any questions you may ask.

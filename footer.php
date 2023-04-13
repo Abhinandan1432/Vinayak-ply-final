@@ -66,6 +66,7 @@
                     <img src="./assets/icons/facebook.png" class="img-fluid mx-2" alt="" width="32px">
                     <img src="./assets/icons/instagram.png" class="img-fluid mx-2" alt="" width="32px">
                     <img src="./assets/icons/twitter.png" class="img-fluid mx-2" alt="" width="32px">
+                    <img src="./assets/icons/youtube.svg" class="img-fluid mx-2" alt="" width="32px"> 
                     <img src="./assets/icons/linkedin.png" class="img-fluid mx-2" alt="" width="32px"> 
                 </div>
             </div>

@@ -55,6 +55,55 @@ $("#ex").owlCarousel({
   }
 })
 
+$("#carpenter").owlCarousel({
+  merge: true,
+  items: 1,
+  loop: true,
+  margin: 20,
+  autoplay: true,
+  autoplayTimeout: 5000,
+  autoplaySpeed: 2000,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 1
+    },
+    960: {
+      items: 1
+    },
+    1200: {
+      items: 1
+    }
+  }
+})
+$("#carpenterMumbai").owlCarousel({
+  merge: true,
+  items: 1,
+  loop: true,
+  margin: 20,
+  autoplay: true,
+  autoplayTimeout: 5000,
+  autoplaySpeed: 2000,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    600: {
+      items: 1
+    },
+    960: {
+      items: 1
+    },
+    1200: {
+      items: 1
+    }
+  }
+})
+
 
 // our product categories starts here
 var owl = $('.owl-carousel');

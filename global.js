@@ -14,19 +14,15 @@ $('#pagination-demo').twbsPagination({
 });
 
 $("#owl-slider").owlCarousel({
+  items:1,
   animateOut: 'fadeOut',
   items: 1,
   smartSpeed: 450,
   nav: false,
-  dots: true,
+  dots: false,
   loop: true,
   autoplay: true,
   autoplayTimeout: 4000,
-  responsive: {
-    0: {
-      items: 1
-    }
-  }
 });
 
 
@@ -35,6 +31,7 @@ $("#ex").owlCarousel({
   items: 1,
   loop: true,
   margin: 20,
+  dots:true,
   autoplay: true,
   autoplayTimeout: 5000,
   autoplaySpeed: 2000,

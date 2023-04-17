@@ -1,89 +1,64 @@
 <?php require_once('header.php') ?>
 
-<!-- Owl Carousal for destop -->
-<div class="owl-slider sm-height sm-center d-md-block" id="owl-slider" style="overflow: hidden;">
-  <!-- slide 01 -->
-  <div class="slide ">
-    <div class="owl-slide slider_one sm-height">
-      <div class="container owl-text">
+<!-- hero section starts here -->
+<div class="home-demo">
+  <div class="owl-carousel hero-carousel owl-theme">
+    <div class="item slide-one d-flex align-items-center">
+      <div class="container">
         <div class="row">
-          <div class="col-md-8 col-sm-12">
-            <h1 class="heading_one"><strong style="color: black;">Smart Bano,</strong> <br>
-              <strong style="color:#A6CE39;">Scan Kro</strong>
-            </h1>
-            <p class="paragraph " style="color: black;">
-              <strong>Vinayakply Android app helps you to check the authenticity of any product. The application brings
+          <div class="col-md-8 col-12">
+            <div class="">
+              <h1 class="heading_one">Design your dream home with vinayak plywood</h1>
+              <p class="paragraph text-white">Vinayakply Android app helps you to check the authenticity of any product. The
+                application brings
                 a new level
                 of transparency in the business by empowering customers to verify the authenticity of products. You can
-                install it on any android device and share your experience with us.</strong>
-            </p>
-            <div class="">
-              <a href="#"><button class="red-button sm-center">View More</button></a>
-              <!-- <a href="#"><button class="white-button sm-center">Download Now</button></a> -->
+                install it on any android device and share your experience with us.</p>
+                <a href="#"><button class="red-button sm-center">View More</button></a>
             </div>
           </div>
-          <div class="col-md-4 col-sm-12"> </div>
+          <div class="col-md-4 col-12"></div>
         </div>
       </div>
     </div>
-  </div>
-  <!-- slide 02 -->
-  <div class="slide">
-    <div class="owl-slide slider_two sm-height">
-      <div class="container owl-text">
+    <div class="item slide-two d-flex align-items-center">
+      <div class="container">
         <div class="row">
-          <div class="col-md-8 col-sm-12">
-            <h1 class="heading_one"><strong style="color: white;">Design Your Dream
-                Home with Our Plywood
-            </h1>
-            <p class="paragraph " style="color: white;">
-              <strong>Vinayakply Android app helps you to check the authenticity of any product. The application brings
+          <div class="col-md-8 col-12">
+            <div class="">
+              <h1 class="heading_one">Design your dream home with vinayak plywood</h1>
+              <p class="paragraph text-white">Vinayakply Android app helps you to check the authenticity of any product. The
+                application brings
                 a new level
                 of transparency in the business by empowering customers to verify the authenticity of products. You can
-                install it on any android device and share your experience with us.</strong>
-            </p>
-            <div class="">
-              <a href="#"><button class="red-button sm-center">View More</button></a>
-              <!-- <a href="#"><button class="white-button sm-center">Download Now</button></a> -->
+                install it on any android device and share your experience with us.</p>
+                <a href="#"><button class="red-button sm-center">View More</button></a>
             </div>
           </div>
-          <div class="col-md-4 col-sm-12">
-
-          </div>
+          <div class="col-md-4 col-12"></div>
         </div>
       </div>
     </div>
-  </div>
-  <!-- slide 03 -->
-  <div class="slide ">
-    <div class="owl-slide slider_three sm-height">
-      <div class="container owl-text">
+    <div class="item slide-three d-flex align-items-center">
+      <div class="container">
         <div class="row">
-          <div class="col-md-8 col-sm-12">
-            <h1 class="heading_one"><strong style="color: black;">Smart Bano,</strong> <br>
-              <strong style="color:#A6CE39;">Scan Kro</strong>
-            </h1>
-            <p class="paragraph " style="color: black;">
-              <strong>Vinayakply Android app helps you to check the authenticity of any product. The application brings
+          <div class="col-md-8 col-12">
+            <div class="">
+              <h1 class="heading_one">Design your dream home with vinayak plywood</h1>
+              <p class="paragraph text-white">Vinayakply Android app helps you to check the authenticity of any product. The
+                application brings
                 a new level
                 of transparency in the business by empowering customers to verify the authenticity of products. You can
-                install it on any android device and share your experience with us.</strong>
-            </p>
-            <div class="">
-              <a href="#"><button class="red-button sm-center">View More</button></a>
-              <!-- <a href="#"><button class="white-button sm-center">Download Now</button></a> -->
+                install it on any android device and share your experience with us.</p>
+                <a href="#"><button class="red-button sm-center">View More</button></a>
             </div>
           </div>
-          <div class="col-md-4 col-sm-12">
-
-          </div>
+          <div class="col-md-4 col-12"></div>
         </div>
       </div>
     </div>
   </div>
 </div>
-<!-- Owl Carousal -->
-
 
 <!-- hero section ends here -->
 
@@ -226,16 +201,11 @@
   <div class="container sm-center">
     <div class="row">
       <div class="col-md-10 col-12">
-        <h3 class="heading_three">We Are Certified by</h3>
-      </div>
-      <div class="col-md-2 col-12 d-none d-md-block">
-        <div class="d-flex justify-content-end">
-          <a href="#"><button class="red-button">View More</button></a>
-        </div>
+        <h3 class="heading_three">We Are Highly Certified by Various organization</h3>
       </div>
       <div class="col-md-4 col-12">
         <div class="row">
-          <div class="col-md-3 col-12">
+          <div class="col-md-3 col-12 d-flex align-items-center justify-content-center">
             <div>
               <img src="./assets/logo/iso.png" class="img-fluid" alt="iso_logo">
             </div>
@@ -248,7 +218,7 @@
       </div>
       <div class="col-md-4 col-12">
         <div class="row">
-          <div class="col-md-3 col-12">
+          <div class="col-md-3 col-12 d-flex align-items-center justify-content-center">
             <div>
               <img src="./assets/logo/member.png" class="img-fluid" alt="iso_logo">
             </div>
@@ -261,7 +231,7 @@
       </div>
       <div class="col-md-4 col-12">
         <div class="row">
-          <div class="col-md-3 col-12">
+          <div class="col-md-3 col-12 d-flex align-items-center justify-content-center">
             <div>
               <img src="./assets/logo/isi.png" class="img-fluid" alt="iso_logo">
             </div>
@@ -340,11 +310,11 @@
     <div class="row my-4">
       <div class="col-md-3 col-12">
         <div class="shadow p-3 h-100 journey-card">
-              <div class="d-flex">
-                <h4 class="heading_four">2004</h4>
-                <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
-              </div>
-            <div id="red-line" class="w-25"></div>
+          <div class="d-flex">
+            <h4 class="heading_four">2004</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply it’s a Brand Received by Notoriety Throughout all over India
           </p>
@@ -356,7 +326,7 @@
             <h4 class="heading_four">2008</h4>
             <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
           </div>
-        <div id="red-line" class="w-25"></div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             As a budding startup, the firm's two managing directors started by trading in timber.
 
@@ -369,7 +339,7 @@
             <h4 class="heading_four">2019</h4>
             <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
           </div>
-        <div id="red-line" class="w-25"></div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayakply with a larger goal in mind, and the path he took led him to begin with the idea.
 
@@ -382,7 +352,7 @@
             <h4 class="heading_four">2021</h4>
             <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
           </div>
-        <div id="red-line" class="w-25"></div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply, starting his own plywood brand was always in mind and his dream came true.
           </p>
@@ -398,11 +368,11 @@
     <div class="row my-4">
       <div class="col-12 mb-4">
         <div class="shadow p-3 h-100 journey-card">
-              <div class="d-flex">
-                <h4 class="heading_four">2004</h4>
-                <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
-              </div>
-            <div id="red-line" class="w-25"></div>
+          <div class="d-flex">
+            <h4 class="heading_four">2004</h4>
+            <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
+          </div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply it’s a Brand Received by Notoriety Throughout all over India
           </p>
@@ -414,7 +384,7 @@
             <h4 class="heading_four">2008</h4>
             <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
           </div>
-        <div id="red-line" class="w-25"></div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             As a budding startup, the firm's two managing directors started by trading in timber.
 
@@ -427,7 +397,7 @@
             <h4 class="heading_four">2019</h4>
             <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
           </div>
-        <div id="red-line" class="w-25"></div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayakply with a larger goal in mind, and the path he took led him to begin with the idea.
 
@@ -440,7 +410,7 @@
             <h4 class="heading_four">2021</h4>
             <span class="mx-3"><img src="./assets/logo/growth-arrow.png" alt=""></span>
           </div>
-        <div id="red-line" class="w-25"></div>
+          <div id="red-line" class="w-25"></div>
           <p class="paragraph text-dark pt-3">
             Vinayak Ply, starting his own plywood brand was always in mind and his dream came true.
           </p>
@@ -464,7 +434,7 @@
           <a href="#"><button class="red-button">Read More</button></a>
         </div>
       </div>
-      <div class="col-md-4 col-12 sm-pd-top">
+      <div class="col-md-4 col-12 sm-pd-top mb-4">
         <div class="card box-shadow rounded h-100">
           <img src="./assets/blogs/blog_img_one.png" class="card-img-top img-fluid" alt="blog_img_one">
           <div class="card-body">
@@ -478,7 +448,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4 col-12 sm-pd-top">
+      <div class="col-md-4 col-12 sm-pd-top mb-4">
         <div class="card box-shadow rounded h-100">
           <img src="./assets/blogs/blog_img_two.png" class="card-img-top img-fluid" alt="blog_img_two">
           <div class="card-body">
@@ -492,7 +462,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4 col-12 sm-pd-top">
+      <div class="col-md-4 col-12 sm-pd-top mb-4">
         <div class="card box-shadow rounded h-100">
           <img src="./assets/blogs/blog_img_three.png" class="card-img-top img-fluid" alt="blog_img_three">
           <div class="card-body">

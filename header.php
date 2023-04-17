@@ -43,6 +43,10 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css">
     <!--ekko lightbox gallery -->
 
+    <!-- animate css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <!-- animate css -->
+
     <!-- our global css link -->
     <link rel="stylesheet" href="./style.css">
     <!-- our global css  -->
@@ -50,6 +54,11 @@
 </head>
 
 <body>
+    <!-- pre-loader -->
+    <div class="loader-wrapper">
+        <span class="loader"></span>
+    </div>
+    <!-- pre-loader -->
     <!-- navbar starts here -->
     <section>
         <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
@@ -73,9 +82,19 @@
                         <li class="nav-item">
                             <a class="nav-link fw-bold text-dark" aria-current="page" href="./index.php">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link fw-bold text-dark" href="./about.php">About</a>
-                        </li>
+                        </li> -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle fw-bold text-dark mega-menu" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                About
+                            </a>
+                            <ul class="dropdown-menu my-3 border-0 shadow" aria-labelledby="dropdownMenuButton1">
+                              <li><a class="dropdown-item" href="./about.php">About Us</a></li>
+                              <li><a class="dropdown-item" href="./career.php">Career</a></li>
+                              <li><a class="dropdown-item" href="./certificate.php">Certificates</a></li>
+                            </ul>
+                          </li>
                         <li class="nav-item dropdown dropdown-mega position-static">
                             <!-- <a class="nav-link" href="#">Products</a> -->
                             <a class="nav-link dropdown-toggle fw-bold text-dark mega-menu" href="#" data-bs-toggle="dropdown"
@@ -176,3 +195,4 @@
   <!-- move to top -->
   <button onclick="topFunction()" id="moveTop" title="Go to top"><i class="fa-solid fa-caret-up"></i></button>
   <!-- move to top -->
+  
